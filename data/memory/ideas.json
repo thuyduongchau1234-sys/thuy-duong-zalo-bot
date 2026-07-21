@@ -1,0 +1,199 @@
+[
+  {
+    "id": "jn95tuzmqvv5m79",
+    "userId": "7927589988843511716",
+    "userName": "Unknown",
+    "date": "2026-06-27",
+    "timestamp": "2026-06-27T04:32:12.453Z",
+    "subject": "Hỗ trợ viết nội dung bài đăng mạng xã hội",
+    "summary": "Người dùng gửi hình ảnh phông nền trang trí (background) và có ý định sử dụng để truyền tải thông điệp về thành tựu hoặc lời cảm ơn. Trợ lý đã gợi ý ý nghĩa của các biểu tượng trong hành trình Tam Thông Dưỡng Nhan và đề nghị hỗ trợ viết nội dung.",
+    "keywords": [
+      "Tam Thông Dưỡng Nhan",
+      "nội dung bài đăng",
+      "truyền thông",
+      "phông nền"
+    ],
+    "nextAction": "Chờ người dùng cung cấp thông tin chi tiết về bài đăng để hỗ trợ viết nội dung"
+  },
+  {
+    "id": "stujb2tmqvvfbmp",
+    "userId": "6961154405071114042",
+    "userName": "Unknown",
+    "date": "2026-06-27",
+    "timestamp": "2026-06-27T04:39:45.313Z",
+    "subject": "Phân tích hình ảnh truyền thông Tam Thông Dưỡng Nhan",
+    "summary": "Người dùng gửi hình ảnh biểu tượng tương tác (Like, Comment, Checkmark, Confetti). Trợ lý đã phân tích hình ảnh dưới góc nhìn thương hiệu 'Tam Thông Dưỡng Nhan' là năng lượng của sự đồng thuận và kết nối với cơ thể.",
+    "keywords": [
+      "Tam Thông Dưỡng Nhan",
+      "truyền thông",
+      "hình ảnh biểu tượng",
+      "năng lượng tích cực"
+    ],
+    "nextAction": "Hỗ trợ soạn caption cho bài đăng truyền thông theo yêu cầu của người dùng"
+  },
+  {
+    "id": "txv3w6fmqxh59ey",
+    "userId": "4158999347555777303",
+    "userName": "Unknown",
+    "date": "2026-06-28",
+    "timestamp": "2026-06-28T07:35:33.610Z",
+    "subject": "Xây dựng nhân hiệu lãnh đạo tử tế",
+    "summary": "Châu Thị Thùy Dương định hướng xây dựng nhân hiệu theo phong cách chân thật, tử tế, tập trung vào giá trị cốt lõi thay vì hào nhoáng. Đã soạn thảo bài viết mẫu về việc chọn sự chân thật trong lãnh đạo để đăng tải.",
+    "keywords": [
+      "nhân hiệu",
+      "lãnh đạo tử tế",
+      "chân thật",
+      "Châu Thị Thùy Dương"
+    ],
+    "nextAction": "Hỏi thăm kết quả tương tác của bài viết sau khi chị Dương đăng tải"
+  },
+  {
+    "id": "qf52f0gmqxmgryf",
+    "userId": "4158999347555777303",
+    "userName": "Unknown",
+    "date": "2026-06-28",
+    "timestamp": "2026-06-28T10:04:28.935Z",
+    "subject": "Hỗ trợ xây dựng thương hiệu cá nhân cho chị Dương",
+    "summary": "Chị Dương đang học cách làm video nhanh để tối ưu hóa công việc tại tiệm Tam Thông. Trợ lý đã soạn bài viết Facebook với phong cách mộc mạc, chân thành, tập trung vào việc ứng dụng công nghệ để có thêm thời gian chăm sóc khách hàng.",
+    "keywords": [
+      "tiệm Tam Thông",
+      "làm video",
+      "thương hiệu cá nhân",
+      "Facebook",
+      "chăm sóc khách hàng"
+    ],
+    "nextAction": "Chờ phản hồi của chị Dương về việc đăng bài hoặc yêu cầu chỉnh sửa nội dung."
+  },
+  {
+    "id": "b96ew8omqylmhel",
+    "userId": "4158999347555777303",
+    "userName": "Unknown",
+    "date": "2026-06-29",
+    "timestamp": "2026-06-29T02:28:41.757Z",
+    "subject": "Hướng dẫn chuyển giao trợ lý AI cho bạn bè",
+    "summary": "Người dùng muốn chia sẻ cách sử dụng trợ lý AI cho bạn bè. Trợ lý đã đề xuất 3 phương pháp: chia sẻ System Prompt, hướng dẫn quy trình thực chiến cho đội nhóm Amway, hoặc tạo cuộc hội thoại mới để đảm bảo bảo mật dữ liệu cá nhân.",
+    "keywords": [
+      "chuyển giao AI",
+      "System Prompt",
+      "Amway",
+      "bảo mật dữ liệu"
+    ],
+    "nextAction": "Soạn bản hướng dẫn nhanh (cô đọng) để người dùng gửi cho bạn bè"
+  },
+  {
+    "id": "60dei6xmr0n5e57",
+    "userId": "1852957239093795607",
+    "userName": "Unknown",
+    "date": "2026-06-30",
+    "timestamp": "2026-06-30T12:46:55.963Z",
+    "subject": "Hỗ trợ thiết kế nội dung truyền thông",
+    "summary": "Khách hàng đang chuẩn bị sử dụng hình ảnh mang phong cách chúc mừng, tươi vui để làm banner hoặc hình nền cho các bài viết vinh danh thành viên hoặc cột mốc kinh doanh trong hệ thống Tam Thông Dưỡng Nhan.",
+    "keywords": [
+      "Tam Thông Dưỡng Nhan",
+      "banner",
+      "truyền thông",
+      "vinh danh"
+    ],
+    "nextAction": "Hỗ trợ khách hàng soạn nội dung bài viết đính kèm hình ảnh khi khách hàng cung cấp ý tưởng cụ thể."
+  },
+  {
+    "id": "lm1ns4rmr0tjlbf",
+    "userId": "1000371540457544258",
+    "userName": "Unknown",
+    "date": "2026-06-30",
+    "timestamp": "2026-06-30T15:45:56.139Z",
+    "subject": "Sử dụng bộ icon đồ họa cho truyền thông hệ thống",
+    "summary": "Người dùng sở hữu bộ icon đồ họa mang phong cách tích cực, chuyên nghiệp. Trợ lý đã phân tích ý nghĩa các icon (Like, Bong bóng hội thoại, Dấu tích, Confetti) và gợi ý ứng dụng làm banner vinh danh hoặc thông báo cột mốc cho cộng đồng 'Tam Thông Dưỡng Nhan'.",
+    "keywords": [
+      "Tam Thông Dưỡng Nhan",
+      "truyền thông",
+      "vinh danh",
+      "banner",
+      "Amway"
+    ],
+    "nextAction": "Hỗ trợ soạn nội dung truyền cảm hứng đi kèm hình ảnh để đăng Facebook hoặc Zalo nhóm"
+  },
+  {
+    "id": "11z6gf5mrd7jmcv",
+    "userId": "2843663149796156630",
+    "userName": "Phan Thanh Phương",
+    "date": "2026-07-09",
+    "timestamp": "2026-07-09T07:51:06.223Z",
+    "subject": "Hỗ trợ nội dung bài đăng vinh danh",
+    "summary": "Khách hàng Phan Thanh Phương đang chuẩn bị hình ảnh phong cách tươi vui để làm background cho các bài đăng vinh danh tuyến dưới hoặc chúc mừng học viên. Trợ lý đã đề nghị hỗ trợ viết nội dung bài đăng.",
+    "keywords": [
+      "vinh danh",
+      "tuyến dưới",
+      "học viên",
+      "nội dung bài đăng",
+      "Amway"
+    ],
+    "nextAction": "Chờ phản hồi từ khách hàng về việc viết nội dung bài đăng kèm hình ảnh"
+  },
+  {
+    "id": "ha7125zmris48zv",
+    "userId": "4158999347555777303",
+    "userName": "Châu Thị Thuỳ Dương",
+    "date": "2026-07-13",
+    "timestamp": "2026-07-13T05:25:51.883Z",
+    "subject": "Chiến lược ưu đãi dịch vụ Tam Thông Dưỡng Nhan",
+    "summary": "Thống nhất chính sách không giảm giá trực tiếp để giữ giá trị thương hiệu. Thay vào đó, áp dụng tặng kèm dịch vụ (gội đầu thảo dược) hoặc ưu đãi theo gói Combo (Mày + Môi) để khách hàng cảm thấy nhận được nhiều giá trị hơn.",
+    "keywords": [
+      "Tam Thông Dưỡng Nhan",
+      "chiến lược giá",
+      "combo dịch vụ",
+      "quà tặng kèm"
+    ],
+    "nextAction": "Áp dụng tư vấn theo kịch bản tặng kèm gội đầu hoặc chăm sóc da khi khách hàng hỏi về giảm giá."
+  },
+  {
+    "id": "cg3n7iqmriwrwao",
+    "userId": "4158999347555777303",
+    "userName": "Châu Thị Thuỳ Dương",
+    "date": "2026-07-13",
+    "timestamp": "2026-07-13T07:36:13.632Z",
+    "subject": "Ứng dụng phương pháp Huyền Châm vào Tam Thông Dưỡng Nhan",
+    "summary": "Chị Dương đang nghiên cứu ứng dụng phương pháp Huyền Châm (châm cứu thẩm mỹ) để bổ trợ cho liệu trình Tam Thông Dưỡng Nhan, giúp giải quyết tắc nghẽn sâu và trẻ hóa tự nhiên. Cần lưu ý về vô trùng, kỹ thuật đi khí và kết hợp bổ sung dinh dưỡng Nutrilite (Protein, Vitamin C) để đạt hiệu quả tối ưu.",
+    "keywords": [
+      "Huyền Châm",
+      "Tam Thông Dưỡng Nhan",
+      "Đông y",
+      "Nutrilite",
+      "Trẻ hóa"
+    ],
+    "nextAction": "Soạn bài chia sẻ chuyên sâu về Huyền Châm cho khách hàng hoặc tài liệu đào tạo nhân viên theo yêu cầu của chị Dương."
+  },
+  {
+    "id": "bmbkx3xmrqdt67v",
+    "userId": "4158999347555777303",
+    "userName": "Châu Thị Thuỳ Dương",
+    "date": "2026-07-18",
+    "timestamp": "2026-07-18T13:07:29.851Z",
+    "subject": "Hướng dẫn xử lý livestream khi gặp nhạc bản quyền",
+    "summary": "Trợ lý hướng dẫn chị Dương cách xử lý khi livestream tại sự kiện có nhạc nền lớn: nói sát mic, giải thích với người xem, chia nhỏ thời lượng live (5-10 phút) và sử dụng công cụ gỡ bản quyền của Facebook sau khi live.",
+    "keywords": [
+      "livestream",
+      "bản quyền nhạc",
+      "xử lý sự cố",
+      "Facebook"
+    ],
+    "nextAction": "Soạn câu mở đầu livestream cho chị Dương nếu được yêu cầu"
+  },
+  {
+    "id": "lc8gmzxmrqdvo44",
+    "userId": "4158999347555777303",
+    "userName": "Châu Thị Thuỳ Dương",
+    "date": "2026-07-18",
+    "timestamp": "2026-07-18T13:09:26.356Z",
+    "subject": "Chiến lược livestream tại sự kiện cho chị Dương",
+    "summary": "Hướng dẫn chị Dương cách livestream tại sự kiện Festival Nha Trang: chia sẻ video ngắn 5-10 phút để tránh bản quyền nhạc, sử dụng tính năng tắt âm thanh vi phạm của Facebook thay vì xóa video, và tập trung vào việc quay cảnh thực tế kết hợp thuyết minh để giữ sự tự nhiên.",
+    "keywords": [
+      "livestream",
+      "bản quyền nhạc",
+      "Facebook",
+      "chiến lược nội dung",
+      "Festival Nha Trang"
+    ],
+    "nextAction": "Soạn câu dẫn dắt livestream cho chị Dương nếu chị yêu cầu"
+  }
+]
