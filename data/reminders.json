@@ -1,0 +1,2992 @@
+[
+  {
+    "id": "gcnk9xkmqquyjtz",
+    "userId": "5046923348046707114",
+    "userName": "Thực Hành Tam Thông Dưỡng Nhan",
+    "createdDate": "2026-06-23",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm tình trạng sức khỏe và cảm nhận của khách hàng sau một tuần không tương tác.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "votjjbcmqrecf3v",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-25",
+    "reason": "Hỏi thăm tình trạng mắt đã cải thiện sau khi vệ sinh và nghỉ ngơi chưa, có cần đi khám bác sĩ không.",
+    "status": "sent",
+    "sentDate": "2026-06-25"
+  },
+  {
+    "id": "30xpd25mqrej6s8",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng đỏ mắt, mức độ cải thiện nóng gan và việc duy trì thói quen ngủ trước 23h của khách hàng.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "0cmlqgqmqrekuk2",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng cơ thể, mức độ kiên trì và cảm nhận về sự an yên sau 7 ngày thực hiện liệu trình Tam Thông Dưỡng Nhan.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "be7gf4nmqrelnxm",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng mắt và hiệu quả hỗ trợ giải độc gan sau 1 tuần sử dụng sản phẩm Nutrilite Gan.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "soyq7prmqrewecm",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm kết quả thực hành các kỹ thuật dưỡng nhan sau khi học viên nhấn mạnh tầm quan trọng của thực chiến.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "5mxnm4amqrez3lj",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-27",
+    "reason": "Kiểm tra tình trạng vết bầm ở mắt và đảm bảo học viên vẫn an toàn, không bị đe dọa thêm",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "ugv5vinmqrf2vpl",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-27",
+    "reason": "Hỏi thăm tình hình an toàn và hỗ trợ tâm lý sau khi khách hàng thực hiện các bước trình báo công an.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "bjza5z7mqrf44le",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-25",
+    "reason": "Kiểm tra xem khách hàng đã thoát khỏi tình huống nguy hiểm và đã liên hệ cơ quan chức năng chưa.",
+    "status": "sent",
+    "sentDate": "2026-06-25"
+  },
+  {
+    "id": "u4f6symmqrf4grv",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-25",
+    "reason": "Kiểm tra tình trạng an toàn của khách hàng sau 24 giờ",
+    "status": "sent",
+    "sentDate": "2026-06-25"
+  },
+  {
+    "id": "iigha9vmqrf60jl",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-25",
+    "reason": "Kiểm tra tình trạng an toàn của khách hàng sau sự cố bị đe dọa.",
+    "status": "sent",
+    "sentDate": "2026-06-25"
+  },
+  {
+    "id": "z2z9fxomqrf84wl",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-27",
+    "reason": "Hỏi thăm tình hình an toàn của khách hàng sau sự cố căng thẳng.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "kkrzl4fmqrfhpfl",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-27",
+    "reason": "Nhắn tin hỏi thăm khách hàng đã cung cấp chỉ số cân nặng và mục tiêu chưa để bắt đầu lộ trình 30 ngày.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "nwak9eimqrfk56m",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm xem mẹ đã áp dụng phương pháp kết nối với con chưa và tình hình phản ứng của con ở trường/nhà có thay đổi tích cực không.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "9uswtyjmqrflm1s",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm cân nặng và cảm nhận cơ thể sau 7 ngày thực hiện lộ trình siết dáng",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "lqwajhkmqrfmmp0",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm kết quả sau 7 ngày áp dụng các câu nói kết nối với con để xem sự thay đổi trong mối quan hệ mẹ con.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "twhzm84mqrfnzr8",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm sự thay đổi và kết nối giữa mẹ và con sau 7 ngày áp dụng phương pháp.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "6hl0fudmqri6miz",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm bé đã bắt đầu làm quen với chế độ ăn mới và thói quen uống nước/ngủ sớm chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "94ccn5jmqricg9g",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-27",
+    "reason": "Hỏi thăm tình trạng tiêu hóa và kiểm tra xem khách có áp dụng mẹo Diện Chẩn để hỗ trợ giảm cân hiệu quả không.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "0o80nysmqrij33y",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-27",
+    "reason": "Hỏi thăm tình trạng tiêu hóa và cảm nhận của khách sau khi thực hành bấm huyệt 127 và 63.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "pftrffbmqriuukm",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng cơ thể, cảm giác thèm ăn và hiệu quả của việc day huyệt 63, 127 sau 1 tuần thực hiện.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "tgmmpqnmqrj2x0x",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-25",
+    "reason": "Hỏi thăm tình trạng cơn nhức đầu và mức độ mệt mỏi sau khi áp dụng các kỹ thuật Diện Chẩn",
+    "status": "sent",
+    "sentDate": "2026-06-25"
+  },
+  {
+    "id": "pfsinxpmqrj7jqo",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-25",
+    "reason": "Hỏi thăm tình trạng giảm đau đầu sau khi khách hàng thực hiện day huyệt 26.",
+    "status": "sent",
+    "sentDate": "2026-06-25"
+  },
+  {
+    "id": "cacn4jjmqrocjaf",
+    "userId": "test_user_price_query",
+    "userName": "Unknown",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm khách hàng đã quyết định mua sản phẩm hoặc cần hỗ trợ thêm về cách sử dụng/đăng ký thành viên chưa",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "em5e2yamqrp8t5t",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm khách hàng đã tìm hiểu thêm về Double X chưa và có cần hỗ trợ lên phác đồ dinh dưỡng cá nhân hóa không.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "scihco3mqrpcd50",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm khách hàng đã liên hệ với chị Thùy Dương để nhận tư vấn bộ nồi Queen chưa và có cần hỗ trợ thêm thông tin gì về cách nấu ăn dinh dưỡng không.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "dfgsbvbmqrpedrk",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng sức khỏe và mức độ phục hồi năng lượng sau 7 ngày thực hiện điều chỉnh thải độc và bổ sung dinh dưỡng.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "g0qwlrmmqrpenu2",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm xem khách hàng đã thử áp dụng phương pháp nướng bằng nồi Queen chưa và có cần hỗ trợ thêm công thức nấu ăn nào không.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "j8xfsa6mqrphknu",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm khách hàng xem đã thử áp dụng phương pháp nấu lửa nhỏ với nồi Queen chưa và có cần hỗ trợ thêm về kỹ thuật nấu ăn bảo vệ sức khỏe không.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "j4etfohmqrphll4",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng sức khỏe và mức độ cải thiện năng lượng sau 7 ngày áp dụng lộ trình bổ sung dinh dưỡng.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "v0cq2utmqrpjqhc",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm khách hàng về nhu cầu sức khỏe cụ thể sau khi đã giới thiệu về khả năng tư vấn dinh dưỡng của hệ thống.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "gh5mb24mqrtmvgt",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-06-27",
+    "reason": "Hỏi thăm khách hàng sau chuyến đi Vũng Tàu xem có mệt mỏi không và cảm nhận về việc áp dụng Diện Chẩn/Protein trong chuyến đi.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "63iow7mmqrtonss",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm sức khỏe của bé sau chuyến đi dài và xem bé có hợp tác với việc bổ sung Protein không",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "fohpc31mqrtp3rv",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-24",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình hình sức khỏe của bé sau chuyến đi và trải nghiệm sử dụng sản phẩm Nutrilite All Plant Protein",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "eqeqgq3mqsts0gl",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-25",
+    "targetDate": "2026-06-28",
+    "reason": "Hỏi thăm tình trạng giảm đau đầu sau khi khách hàng thực hiện day huyệt 26",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "lah2dnjmqu9gwc6",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình trạng cơ mặt, mức độ căng thẳng và phản hồi sau 7 ngày thực hành các kỹ thuật thả lỏng và sử dụng sản phẩm hỗ trợ.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "uyt0a86mqueknl2",
+    "userId": "7111836400664503570",
+    "userName": "TINH HOA NHÂN HIỆU NHÀ ĐÀO TẠO",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình hình hoạt động của nhóm TINH HOA và mức độ tương tác của các thành viên sau 1 tuần triển khai.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "uwxj26rmqujn9oa",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Theo dõi hiệu quả của phác đồ dinh dưỡng và hướng dẫn day huyệt, kiểm tra xem khách hàng có gặp khó khăn gì trong quá trình thực hiện không.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "3qoxoxzmqujnsrs",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình trạng chuyển biến sức khỏe (ngủ, đau mỏi, tiêu hóa) sau 7 ngày áp dụng phác đồ để điều chỉnh kịp thời.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "sc6kgz2mqujobv9",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Kiểm tra tiến triển của tình trạng hẹp khí quản và các triệu chứng dị ứng sau 7 ngày thực hiện phác đồ dinh dưỡng và Diện Chẩn.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "rbyss7hmquthpsn",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm kết quả sau 7 ngày áp dụng phác đồ dinh dưỡng và Diện Chẩn để điều chỉnh liệu trình cho anh Thiện.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "g85kx5umqutl222",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm tình trạng tiêu hóa và các triệu chứng trào ngược của anh Thiện để làm rõ nguyên nhân gây hẹp khí quản.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "w5c9ek1mqutqeju",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm tình trạng ho và hụt hơi sau 3 ngày áp dụng kỹ thuật thở bụng và bổ sung dinh dưỡng.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "cgczoemmquv7jcp",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm tình trạng trào ngược và cơn ho sau khi anh Thiện áp dụng điều chỉnh thời điểm uống Protein và day huyệt Diện Chẩn.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "qbjpqpemquvl6vw",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm tình trạng hụt hơi và ho sau 3 ngày áp dụng phác đồ điều trị để điều chỉnh liều lượng Omega-3.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "q8xuvagmquvotxp",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Kiểm tra phản hồi sức khỏe sau 3 ngày áp dụng liều dùng mới để đánh giá mức độ giảm ợ hơi và cải thiện hô hấp.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "rnyr42omquwf17s",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-28",
+    "reason": "Kiểm tra xem tình trạng giật cơ tay và mắt có thuyên giảm sau khi điều chỉnh liều Canxi-Magie và thực hiện Diện Chẩn hay không",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "0zm5gqtmquwpodp",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình trạng giật cơ và hụt hơi sau 7 ngày anh Thiện ngưng sử dụng cà phê theo phác đồ",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "83mw6o7mquwsq5u",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình trạng giật cơ và hụt hơi của anh Thiện sau 7 ngày ngưng sử dụng cà phê.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "4otrf8jmqv1wmfu",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Kiểm tra việc thực hiện thay thế cà phê bằng Protein sau 7 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "j64g6jumqv1yiri",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Kiểm tra tình trạng đau khớp, việc tuân thủ chế độ ăn uống và sử dụng bột chuối xanh sau 7 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "mlnzh0nmqv2nimp",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình trạng sức khỏe, mức độ tuân thủ phác đồ dinh dưỡng và phản ứng của cơ thể sau 1 tuần áp dụng",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "b4bwl8mmqv2rgop",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình trạng sức khỏe, tiêu hóa và mức độ tuân thủ thực đơn sau 7 ngày áp dụng",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "72oejmamqv339qw",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm tình trạng sức khỏe, phản ứng cơ thể và mức độ tuân thủ thực đơn kỷ luật sau 3 ngày bắt đầu hành trình phục hồi",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "iog50sbmqv35ja0",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Theo dõi sát sao phản ứng của cơ thể trong 7 ngày đầu tiên của lộ trình kỷ luật",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "ghunvlamqv3blb1",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm anh Thiện về việc thực hiện thực đơn, kiểm tra xem có gặp khó khăn hay phản ứng cơ thể nào không sau 3 ngày áp dụng",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "goqylvmmqv3u875",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm khách hàng về việc duy trì thực đơn giảm cân và trải nghiệm sử dụng bút viết trên gương sau 1 tuần",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "a3ez9acmqv3wf7z",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm kết quả thực hiện lộ trình 7 ngày và tình trạng sức khỏe của anh Thiện sau khi áp dụng các quy tắc kỷ luật.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "yetpjvwmqv3zk32",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-07-03",
+    "reason": "Hỏi thăm tình trạng trào ngược và chất lượng giấc ngủ của anh Thiện sau 1 tuần áp dụng bài tập Diện Chẩn",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "9cy56cvmqv4cnw3",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-26",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm tình trạng cải thiện giấc ngủ và phản hồi của anh Thiện sau khi thực hiện các bài tập Diện Chẩn và điều chỉnh tư thế ngủ.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "tmvmrrtmqvum4z5",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-29",
+    "reason": "Hỏi thăm tình trạng bắt đầu lộ trình phục hồi tiêu hóa và nhắc nhở sử dụng bột chuối xanh.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "g97x9ipmqvv43f3",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm khách hàng về việc chỉnh sửa poster và kết quả triển khai hình ảnh thương hiệu mới",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "k5y5z2emqvv981u",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm xem khách hàng đã triển khai poster chưa và phản hồi của khách hàng đối với phong cách nội dung mới này như thế nào.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "ctobhiwmqvvh7ef",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm khách hàng Bích đã thử sử dụng prompt để tạo ảnh chưa hoặc có cần hỗ trợ tư vấn thêm về bảng màu thương hiệu không.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "eiwr8tpmqvy3ruw",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm khách hàng đã chọn được ảnh và thiết kế xong poster chưa, hỗ trợ thêm nếu khách gặp khó khăn khi thao tác trên Canva.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "5pxmunemqvyl417",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm kết quả tương tác của bài đăng trên Facebook và tiến độ triển khai thương hiệu của Bích.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "oohe2jkmqvzf3c8",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm Bích đã bắt đầu soạn nội dung hoặc chọn hình ảnh cho Catalogue chưa, hỗ trợ viết lời dẫn chi tiết.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "y08pda6mqw5yzqo",
+    "userId": "793916126936349348",
+    "userName": "Unknown",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Nhắc nhở người dùng cung cấp thông tin về Len nếu họ chưa phản hồi để tiếp tục hỗ trợ chiến lược phát triển hệ thống.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "kggd0gcmqw6dalm",
+    "userId": "2113191691620056051",
+    "userName": "Unknown",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm tiến độ hoàn thiện ý tưởng hoặc nội dung dự án Con Len để hỗ trợ chị Dương triển khai.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "61jisrqmqw6eh44",
+    "userId": "2113191691620056051",
+    "userName": "Unknown",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm tiến độ triển khai dự án Con Len và hỗ trợ thêm các nội dung truyền thông cần thiết.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "nylbmiqmqw70tuo",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm tiến độ lập danh sách 20 khách hàng và kết quả thực hiện chia sẻ về nước sạch sau 1 tuần",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "m1ytqttmqw76gzy",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm kết quả Bích thực hiện kịch bản kiểm tra nước miễn phí với 5 khách hàng thân thiết và phản ứng của họ.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "r6op4k5mqw78k01",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm Bích về kết quả áp dụng kịch bản xử lý từ chối với khách hàng và phản ứng của khách",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "t8q3ydbmqw79znx",
+    "userId": "793916126936349348",
+    "userName": "Unknown",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Nhắc nhở người dùng cung cấp thông tin chi tiết về Len nếu chưa nhận được phản hồi để tiếp tục hỗ trợ xây dựng chiến lược.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "9ner0rzmqw7q7nn",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Nhắc nhở hỏi thăm nếu khách hàng chưa phản hồi thông tin về hiện trạng hệ thống sau 3 ngày.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "rqa2lq8mqw7utc0",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm tiến độ lập danh sách 50 khách hàng tại Sài Gòn và danh sách 3 người tiềm năng để xây dựng nhánh kinh doanh",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "0d09xgymqw7yqh5",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm kết quả thực hiện danh sách 50 khách hàng và tiến độ kết nối 5 người mỗi ngày sau 1 tuần.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "74v8u8qmqw883jb",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Kiểm tra kết quả thực hiện kế hoạch 3 bước và hỗ trợ soạn tin nhắn tiếp theo cho học viên",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "520odvwmqw8aciv",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-28",
+    "reason": "Hỏi thăm kết quả sau khi người dùng thực hiện thử nghiệm tiếp cận 1 người tại công viên như đã hướng dẫn.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "5gy9aikmqw8ezls",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Kiểm tra kết quả tiếp cận 20 người tại công viên và tình hình chốt khách dùng thử sản phẩm sau 1 tuần thực hiện.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "asjqrizmqw8igmg",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm xem học viên đã áp dụng tư vấn bộ 3 sản phẩm này cho khách hàng chưa và có gặp khó khăn gì không.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "1q7huhsmqw8qub8",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm học viên về kết quả áp dụng các luận điểm xử lý từ chối khi tư vấn bộ nền tảng cho khách hàng mới.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "4lecfa1mqw8xo6y",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm phản ứng cơ thể của khách hàng sau 3 ngày đầu đả thông và sử dụng dinh dưỡng bổ sung.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "6zodzcqmqw96bcv",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm xem học viên đã có cơ hội tư vấn kiến thức về Omega-3 cho khách hàng chưa và phản hồi của khách hàng như thế nào.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "9oy4fwdmqw97urt",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm kết quả áp dụng kịch bản 3 phút và tình hình tiếp cận khách hàng tại công viên",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "x7a0f09mqw9im5j",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm học viên về việc áp dụng quy trình 'Dọn đường' cho khách hàng sau 3 ngày thực hiện.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "nex6w7lmqw9kxbt",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm tình trạng no bụng của khách sau khi áp dụng cách pha mới (thêm Protein/điều chỉnh độ đặc) sau 3 ngày.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "6c69qbpmqw9mjc3",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-28",
+    "reason": "Hỏi thăm khách hàng về cảm giác no và mức năng lượng sau khi áp dụng công thức BodyKey kết hợp Protein vào bữa sáng đầu tiên.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "jn7qn6cmqw9o55e",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-28",
+    "reason": "Theo dõi tình trạng đờm và phản ứng của khách sau khi áp dụng lộ trình 'dọn rác' và bấm huyệt.",
+    "status": "sent",
+    "sentDate": "2026-06-28"
+  },
+  {
+    "id": "1k5is62mqw9qk2p",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm tình trạng tiêu hóa và phản ứng của khách sau khi áp dụng chế độ nước ấm và Diện Chẩn thay thế",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "aie4yovmqw9sj2i",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm học viên xem đã áp dụng cách nhận diện huyệt và chẩn đoán Tỳ vị hư hàn cho khách hàng chưa, có gặp khó khăn gì không.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "ge6q1hymqwb5jyu",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm kết quả thực hành gõ kinh lạc, phản hồi của tình nguyện viên và các khó khăn học viên gặp phải sau 1 tuần triển khai.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "7282aj4mqwu4t3l",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-27",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm xem anh Thiện còn gặp tình trạng buồn ngủ khi lái xe không và nhắc lại các phương pháp tỉnh táo đã hướng dẫn.",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "7bmq8abmqx3mzl7",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm kết quả sau khi học viên áp dụng chiến thuật mới và tâm thế 'xin làm mẫu' để hỗ trợ xử lý từ chối",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "f0t4t6bmqx3oji3",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm kết quả sau khi học viên áp dụng các kỹ thuật đã hướng dẫn vào ca thực hành tiếp theo.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "psy8bc1mqx43pun",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng đau đầu và hiệu quả của việc day huyệt 26 sau 3 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "oxqm5qsmqx48a24",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm tình hình thực hành gói xương khớp, kết quả phản hồi từ khách hàng và việc áp dụng kết hợp dinh dưỡng Nutrilite",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "zeiltugmqx4dd65",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm cảm nhận của khách hàng về sự thay đổi của cơ thể và giấc ngủ sau 7 ngày sử dụng bộ sản phẩm Phục Hồi & Kiến Tạo.",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "i4cdyx2mqx4gf5p",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng cơ thể và phản ứng của khách hàng sau 20 ngày áp dụng giai đoạn 1 để cân nhắc bổ sung Milk Thistle (Giai đoạn 2)",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "36agewqmqx4mqhp",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm kết quả thực tế của khách hàng sau khi áp dụng phác đồ khai thông và bổ sung Omega-3/Protein, đồng thời tư vấn thêm về Double X.",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "6axy9gwmqxaqubf",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-01",
+    "reason": "Kiểm tra xem anh Thiện có tuân thủ lời khuyên không dùng cà phê khi lái xe và hỏi thăm tình trạng trào ngược dạ dày cũng như triệu chứng giật cơ.",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "fbl0zjkmqxaw3v0",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-01",
+    "reason": "Hỏi thăm tình trạng tỉnh táo và phản ứng của cơ thể sau 3 ngày áp dụng lộ trình dinh dưỡng và Diện Chẩn",
+    "status": "sent",
+    "sentDate": "2026-07-01"
+  },
+  {
+    "id": "mgbou0fmqxb0who",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-06-30",
+    "reason": "Hỏi thăm tình trạng sức khỏe và việc thực hiện lộ trình ăn uống, day huyệt sau 2 ngày bắt đầu",
+    "status": "sent",
+    "sentDate": "2026-06-30"
+  },
+  {
+    "id": "rypmwj0mqxbddmu",
+    "userId": "3746783120076110175",
+    "userName": "Unknown",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm tình trạng sức khỏe hoặc tiến độ áp dụng lộ trình Tam Thông sau 7 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "j9jmyigmqxghzdj",
+    "userId": "8537956487510999004",
+    "userName": "Unknown",
+    "createdDate": "2026-06-28",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm tình hình công việc, hệ thống hoặc cảm xúc của chị Dương để duy trì kết nối",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "agprrs9mqyop6hb",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Nhắc nhở Ngọc Bích gửi lại file Catalogue đã chỉnh sửa để duyệt trước khi đi in",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "z51ajg6mqyp6aa6",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-02",
+    "reason": "Hỏi thăm Bích về phản hồi của khách hàng sau khi đã gửi kịch bản tư vấn để hỗ trợ bước tiếp theo.",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "f62sjxjmqyqff72",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm kết quả sau 7 ngày thực hiện liệu trình thanh lọc và điều chỉnh lộ trình tiếp theo",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "rb839gpmqyqg5br",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Kiểm tra hiệu quả của việc bổ sung Protein và tình trạng cai cà phê sau giai đoạn 7 ngày vàng.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "xhkmhjwmqyqhka1",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Kiểm tra việc tuân thủ phác đồ Nutrilite và hỏi thăm tình trạng sức khỏe, phản ứng của dạ dày sau khi ngưng thuốc lạ.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "tr7in4mmqyqhvat",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm kết quả sau 7 ngày thực hiện lộ trình phục hồi và kiểm tra tình trạng trào ngược/buồn ngủ khi lái xe",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "iwdvycumqyqhvd2",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm tình trạng tiêu hóa, mức độ cải thiện triệu chứng trào ngược và sự tuân thủ lộ trình dinh dưỡng sau 1 tuần",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "wv9ukj3mqyqhwe7",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm tình trạng tiêu hóa, giấc ngủ và sự tuân thủ lộ trình dinh dưỡng sau 7 ngày kỷ luật",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "igrbsdvmqyqi49j",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-02",
+    "reason": "Kiểm tra xem anh Thiện đã áp dụng thay thế lương khô bằng Protein/hạt khô chưa và tình trạng ho/trào ngược có cải thiện sau 3 ngày không",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "cftykrjmqyqk0qy",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Kiểm tra tình trạng phục hồi dạ dày và việc tuân thủ chế độ ăn kiêng sau 7 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "37ut4c8mqyrjw67",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Kiểm tra kết quả sau 7 ngày tuân thủ phác đồ phục hồi tiêu hóa và tình trạng đi ngoài của anh Thiện.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "ix5poa6mqyty8rs",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-02",
+    "reason": "Theo dõi tiến độ phục hồi sức khỏe và việc duy trì thói quen chăm sóc sức khỏe trong tuần lễ vàng",
+    "status": "sent",
+    "sentDate": "2026-07-03"
+  },
+  {
+    "id": "ydbzcpamqz2uz89",
+    "userId": "6304417195035041757",
+    "userName": "Unknown",
+    "createdDate": "2026-06-29",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm xem khách hàng đã chỉnh sửa xong poster theo góp ý chưa và kết quả phản hồi từ khách hàng của họ như thế nào.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "glhjcyhmqzyzkca",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm tình trạng sức khỏe và hiệu quả sau 7 ngày thực hiện lộ trình ăn uống và day huyệt",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "jq19mtwmqzzml27",
+    "userId": "6304417195035041757",
+    "userName": "Unknown",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm tiến độ thiết kế của dự án 'Ngọc Bích - Họa Sắc Dung Nhan' và đề xuất hỗ trợ soạn thảo nội dung quảng bá",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "metk8v1mr04iykz",
+    "userId": "5984264378532620972",
+    "userName": "Làm Chủ AI- Nâng Tầm Phiên Bản",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-30",
+    "reason": "Cập nhật thông tin khai trương spa tại Sài Gòn cho khách hàng",
+    "status": "pending"
+  },
+  {
+    "id": "plt4zo3mr0h6cmi",
+    "userId": "test_user_memory_123",
+    "userName": "Chị Ngọc Bích Test",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm tình trạng thực hiện các bài tập Diện Chẩn, mức độ cải thiện cơ mặt và phản hồi về việc bổ sung dinh dưỡng.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "5gfh1h9mr0h6mh6",
+    "userId": "test_user_memory_123",
+    "userName": "Chị Ngọc Bích Test",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm tình trạng thực hiện bài tập Diện Chẩn, dùng dinh dưỡng và đánh giá sự cải thiện cơ mặt sau 7 ngày.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "xczkmqgmr0n6k44",
+    "userId": "1852957239093795607",
+    "userName": "Unknown",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm tình trạng đau đầu gối sau 7 ngày áp dụng phác đồ Diện Chẩn và chế độ dinh dưỡng, kiểm tra việc kiêng khem đồ tanh.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "6zsb87rmr0n8c70",
+    "userId": "1852957239093795607",
+    "userName": "Unknown",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm hiệu quả giảm đau cơ đầu gối sau 7 ngày áp dụng phương pháp ngâm chân và tư vấn thêm về dinh dưỡng nếu cần.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "0bqk9a4mr1au8c3",
+    "userId": "7111836400664503570",
+    "userName": "TINH HOA NHÂN HIỆU NHÀ ĐÀO TẠO",
+    "createdDate": "2026-06-30",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm xem khách hàng có cần hỗ trợ thêm về các ý tưởng hoặc dự án mới để tối ưu hóa việc dẫn dắt hệ thống hay không",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "dqlaef8mr1cvhd7",
+    "userId": "6304417195035041757",
+    "userName": "Unknown",
+    "createdDate": "2026-07-01",
+    "targetDate": "2026-07-08",
+    "reason": "Hỏi thăm tiến độ xây dựng thương hiệu và hỗ trợ soạn nội dung đăng Facebook cho Ngọc Bích - Họa Sắc Dung Nhan",
+    "status": "sent",
+    "sentDate": "2026-07-08"
+  },
+  {
+    "id": "ipz0w9mmr1efcky",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-07-01",
+    "targetDate": "2026-07-08",
+    "reason": "Hỏi thăm tình trạng sức khỏe và hiệu quả của lộ trình dinh dưỡng và Diện Chẩn sau 1 tuần thực hiện",
+    "status": "sent",
+    "sentDate": "2026-07-08"
+  },
+  {
+    "id": "1gs8taqmr1ej2x4",
+    "userId": "6304417195035041757",
+    "userName": "Unknown",
+    "createdDate": "2026-07-01",
+    "targetDate": "2026-07-08",
+    "reason": "Hỏi thăm Bích đã chỉnh sửa hình ảnh xong chưa và kết quả hình ảnh mới có ưng ý không.",
+    "status": "sent",
+    "sentDate": "2026-07-08"
+  },
+  {
+    "id": "u5vbidvmr1hzbtf",
+    "userId": "6961154405071114042",
+    "userName": "Unknown",
+    "createdDate": "2026-07-01",
+    "targetDate": "2026-07-08",
+    "reason": "Hỏi thăm tình trạng sức khỏe, mức độ giảm căng thẳng và việc duy trì thói quen day huyệt/dinh dưỡng sau 1 tuần.",
+    "status": "sent",
+    "sentDate": "2026-07-08"
+  },
+  {
+    "id": "jwjqjvtmr1hzkon",
+    "userId": "6961154405071114042",
+    "userName": "Unknown",
+    "createdDate": "2026-07-01",
+    "targetDate": "2026-07-04",
+    "reason": "Hỏi thăm tình trạng vai gáy và việc thực hiện thói quen cạo gió, bổ sung Protein sau 3 ngày.",
+    "status": "sent",
+    "sentDate": "2026-07-04"
+  },
+  {
+    "id": "sbgy5acmr3o9vgb",
+    "userId": "test_user_spa_price_query_1783006898052",
+    "userName": "Unknown",
+    "createdDate": "2026-07-02",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm khách hàng xem đã xem qua bảng giá và có quyết định làm mới hay chỉnh sửa dáng cũ chưa để hỗ trợ đặt lịch.",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "736upq5mr3ow61b",
+    "userId": "test_user_spa_price_query_1783007937889",
+    "userName": "Unknown",
+    "createdDate": "2026-07-02",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm khách hàng về nhu cầu tư vấn dáng mày/màu môi hoặc hỗ trợ đặt lịch hẹn nếu khách chưa phản hồi",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "0y2h2kxmr3ow99u",
+    "userId": "test_user_spa_price_query_1783007937889",
+    "userName": "Unknown",
+    "createdDate": "2026-07-02",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm khách hàng đã trải nghiệm dịch vụ chưa hoặc có cần hỗ trợ thêm thông tin để đặt lịch không",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "ijzagjnmr3owawz",
+    "userId": "test_user_spa_price_query_1783007937889",
+    "userName": "Unknown",
+    "createdDate": "2026-07-02",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm khách hàng sau 3 ngày nếu khách chưa phản hồi hoặc chưa đặt lịch để chăm sóc lại",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "9skuzknmr3p9ncp",
+    "userId": "test_user_spa_price_query_1783008562801",
+    "userName": "Unknown",
+    "createdDate": "2026-07-02",
+    "targetDate": "2026-07-05",
+    "reason": "Hỏi thăm khách hàng đã sắp xếp được thời gian ghé spa trải nghiệm dịch vụ chưa sau khi tư vấn",
+    "status": "sent",
+    "sentDate": "2026-07-05"
+  },
+  {
+    "id": "w6ths9fmr3p9pr4",
+    "userId": "test_user_spa_price_query_1783008562801",
+    "userName": "Unknown",
+    "createdDate": "2026-07-02",
+    "targetDate": "2026-07-09",
+    "reason": "Hỏi thăm khách hàng về trải nghiệm sau khi thực hiện liệu trình Tam Thông Dưỡng Nhan",
+    "status": "sent",
+    "sentDate": "2026-07-09"
+  },
+  {
+    "id": "bqoc6e5mr49ch6k",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Kiểm tra tiến độ phục hồi khớp và duy trì thói quen sử dụng bột chuối xanh sau 7 ngày tiếp theo",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "qrh7ih1mr49cmyg",
+    "userId": "3479914164528664299",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm kết quả sau 14 ngày áp dụng thực đơn và điều chỉnh chế độ nếu cần thiết.",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "lc7xl5omr4j4gqx",
+    "userId": "1000371540457544258",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng cơ mặt, giấc ngủ và phản hồi sau khi áp dụng các kỹ thuật day huyệt và thả lỏng cơ mặt",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "ovxjefomr4u3www",
+    "userId": "test_user_spa_price_query_1783077164395",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng về việc đã xem bảng giá và có quyết định gửi ảnh để được tư vấn chuyên sâu hay chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "y1o3j3bmr4u3z71",
+    "userId": "test_user_spa_price_query_1783077164395",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng đã ghé spa trải nghiệm dịch vụ chưa hoặc có cần tư vấn thêm về tình trạng đau mỏi vai gáy không",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "euu5q74mr4u41f1",
+    "userId": "test_user_spa_price_query_1783077164395",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng sau 3 ngày nếu khách chưa phản hồi hoặc chưa đặt lịch để chăm sóc lại",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "lpyzkermr4u6jwb",
+    "userId": "793916126936349348",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng da, phản ứng với sản phẩm Artistry và việc thực hiện day huyệt Diện chẩn của Len sau 1 tuần.",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "5oe6ruemr4udofv",
+    "userId": "test_user_spa_price_query_1783077619901",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng xem đã xem qua bảng giá và có quyết định gửi ảnh để tư vấn thêm hay chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "eck8242mr4udqw8",
+    "userId": "test_user_spa_price_query_1783077619901",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng đã chọn được gói dịch vụ phù hợp chưa và có cần hỗ trợ đặt lịch không",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "gpat1rrmr4udswt",
+    "userId": "test_user_spa_price_query_1783077619901",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng đã sắp xếp được thời gian ghé spa trải nghiệm liệu trình chưa",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "lfzxzt7mr4ufve5",
+    "userId": "793916126936349348",
+    "userName": "Nina",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng da và việc áp dụng các thủ pháp Diện Chẩn sau 7 ngày.",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "umi54i0mr4um86i",
+    "userId": "test_user_spa_price_query_1783078018200",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng xem đã xem qua bảng giá và có quyết định gửi ảnh để được tư vấn dáng mày/môi hay chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "4r5gjcmmr4umbf1",
+    "userId": "test_user_spa_price_query_1783078018200",
+    "userName": "Unknown",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm khách hàng về nhu cầu đặt lịch trải nghiệm liệu trình Tam Thông Dưỡng Nhan sau khi đã tư vấn giá và ưu đãi",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "gyd1qjxmr4uu67s",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng dứt điểm ho và đàm, kiểm tra việc duy trì uống nước ấm và bổ sung Protein",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "f4nso1fmr4uy4yw",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng dạ dày và khí quản sau khi anh Thiện điều chỉnh thói quen uống cafe theo lời khuyên",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "jqef0rfmr4v2a4h",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng ho và đờm sau khi anh Thiện kiêng cà phê sữa được 1 tuần",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "tcyjwcxmr4v4f5v",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng sức khỏe, hệ tiêu hóa và hô hấp của anh Thiện sau 7 ngày thực hiện chế độ phục hồi",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "niaj8i6mr4vs5v2",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-06",
+    "reason": "Hỏi thăm tình trạng dạ dày, họng và hiệu quả của các phương pháp giúp tỉnh táo khi lái xe sau 3 ngày áp dụng.",
+    "status": "sent",
+    "sentDate": "2026-07-06"
+  },
+  {
+    "id": "4947vm0mr4vsk7f",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng dạ dày, khí quản và việc duy trì thói quen dùng Protein, nước gừng khi lái xe của anh Thiện",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "0f03jnamr4w0usv",
+    "userId": "1000371540457544258",
+    "userName": "Nguyen Thi Kim Phuoc",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm tình trạng sức khỏe, mức độ đau mỏi lưng/lạnh tay chân và kiểm tra xem khách hàng đã đi khám chuyên khoa chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "2ut78rcmr4ytg7b",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-03",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm xem Ngọc Bích đã áp dụng dải trang trí vào bài đăng chưa và khách hàng có phản hồi tích cực không",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "hbgp81hmr5xchvn",
+    "userId": "1000371540457544258",
+    "userName": "Nguyen Thi Kim Phuoc",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-09",
+    "reason": "Hỏi thăm tình trạng lạnh chân sau 5 ngày áp dụng các thủ pháp Diện Chẩn và dinh dưỡng để điều chỉnh lộ trình nếu cần.",
+    "status": "sent",
+    "sentDate": "2026-07-09"
+  },
+  {
+    "id": "l8ho7mbmr5xf12f",
+    "userId": "1000371540457544258",
+    "userName": "Nguyen Thi Kim Phuoc",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm tình trạng vết thương ở chân (đã khô chưa, còn đau nhức hay chảy dịch không) sau 3 ngày tư vấn.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "dg8jzzhmr5ybj6x",
+    "userId": "2322904723701475740",
+    "userName": "Vui Chơi Đà lạt - nha trang",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-11",
+    "reason": "Hỏi thăm tình hình sức khỏe và áp dụng các bài tập dưỡng nhan sau chuyến đi của nhóm",
+    "status": "sent",
+    "sentDate": "2026-07-11"
+  },
+  {
+    "id": "zmv5en8mr5yurk7",
+    "userId": "2322904723701475740",
+    "userName": "Vui Chơi Đà lạt - nha trang",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-11",
+    "reason": "Hỏi thăm khách hàng sau chuyến đi Đà Lạt để xem các mẹo giữ sức khỏe và dưỡng nhan có hiệu quả không, đồng thời duy trì kết nối.",
+    "status": "sent",
+    "sentDate": "2026-07-11"
+  },
+  {
+    "id": "j4e4s7umr5z1nps",
+    "userId": "2322904723701475740",
+    "userName": "Vui Chơi Đà lạt - nha trang",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-11",
+    "reason": "Kiểm tra tiến triển vết thương và nhắc nhở duy trì chế độ ăn kiêng đồ tanh, đồ nếp.",
+    "status": "sent",
+    "sentDate": "2026-07-11"
+  },
+  {
+    "id": "eceghm0mr5z9hmo",
+    "userId": "2322904723701475740",
+    "userName": "Vui Chơi Đà lạt - nha trang",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm gia đình khách hàng về trải nghiệm chuyến đi và việc áp dụng các lưu ý sức khỏe (tách hàm, dùng Protein) trong quá trình tham quan.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "ixvz8lqmr66p06h",
+    "userId": "test_user_spa_price_query_1783158770760",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm khách hàng xem đã quyết định được dịch vụ hoặc có cần hỗ trợ thêm về tư vấn dáng mày/môi hay không",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "lfed8tdmr66p23o",
+    "userId": "test_user_spa_price_query_1783158770760",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm khách hàng sau 3 ngày nếu khách chưa đặt lịch để xem khách có còn nhu cầu thư giãn hoặc cần tư vấn thêm về dịch vụ không.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "vwl9fz1mr66p3r4",
+    "userId": "test_user_spa_price_query_1783158770760",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm khách hàng đã sắp xếp được thời gian qua trải nghiệm liệu trình Tam Thông Dưỡng Nhan chưa",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "s2ydzlwmr678d3e",
+    "userId": "test_user_spa_price_query_1783159673539",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Nhắn tin hỏi thăm khách hàng đã xem bảng giá chưa và có cần hỗ trợ tư vấn thêm về dáng mày/môi hay không.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "vcrbladmr678f51",
+    "userId": "test_user_spa_price_query_1783159673539",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-11",
+    "reason": "Hỏi thăm trải nghiệm dịch vụ sau 7 ngày và tình trạng đau mỏi vai gáy của khách hàng",
+    "status": "sent",
+    "sentDate": "2026-07-11"
+  },
+  {
+    "id": "v79sfcumr678gmp",
+    "userId": "test_user_spa_price_query_1783159673539",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm khách hàng về việc sắp xếp thời gian trải nghiệm liệu trình sau khi đã tư vấn ưu đãi",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "c1lvhhfmr67f66q",
+    "userId": "test_user_spa_price_query_1783159990828",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm khách hàng xem đã quyết định được dáng mày/màu môi hoặc có cần hỗ trợ thêm thông tin gì không sau khi gửi bảng giá",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "a48y1xdmr67f83i",
+    "userId": "test_user_spa_price_query_1783159990828",
+    "userName": "Unknown",
+    "createdDate": "2026-07-04",
+    "targetDate": "2026-07-07",
+    "reason": "Hỏi thăm khách hàng đã chọn được gói dịch vụ phù hợp chưa và tình trạng đau mỏi cổ vai gáy hiện tại.",
+    "status": "sent",
+    "sentDate": "2026-07-07"
+  },
+  {
+    "id": "24z8szvmr72phrh",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-07-05",
+    "targetDate": "2026-07-12",
+    "reason": "Hỏi thăm trải nghiệm ban đầu và mức độ nắm bắt phương pháp tam thông dưỡng nhan của thành viên mới sau 1 tuần tham gia",
+    "status": "sent",
+    "sentDate": "2026-07-12"
+  },
+  {
+    "id": "b0w30h6mr746epx",
+    "userId": "test_user_spa_price_query_1783007937889",
+    "userName": "Unknown",
+    "createdDate": "2026-07-05",
+    "targetDate": "2026-07-12",
+    "reason": "Hỏi thăm tình trạng khách hàng sau 7 ngày kể từ lần nhắn tin gần nhất để hỗ trợ đặt lịch",
+    "status": "sent",
+    "sentDate": "2026-07-12"
+  },
+  {
+    "id": "k323my3mra48e8y",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-07",
+    "targetDate": "2026-08-06",
+    "reason": "Hỏi thăm tình hình triển khai Spa mới tại Sài Gòn sau 1 tháng",
+    "status": "pending"
+  },
+  {
+    "id": "y2u7eanmra4aehl",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-07",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm lại nếu khách hàng chưa phản hồi về địa điểm hoặc dự án để duy trì kết nối",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "zbxhx2tmra4bfid",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-07",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm xem khách hàng đã chọn được địa điểm ưng ý chưa hoặc có cần hỗ trợ thêm thông tin chi tiết về các địa điểm đã gợi ý không.",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "zbyt76vmra4c41y",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-07",
+    "targetDate": "2026-07-14",
+    "reason": "Hỏi thăm khách hàng đã chọn được địa điểm nghỉ dưỡng chưa và hỗ trợ lên thực đơn Nutrilite cho chuyến đi",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "koo5760mra4e81l",
+    "userId": "1852957239093795607",
+    "userName": "Nguyetkieu",
+    "createdDate": "2026-07-07",
+    "targetDate": "2026-07-14",
+    "reason": "Hỏi thăm tình trạng sức khỏe sau 7 ngày, kiểm tra xem khách đã đi xét nghiệm máu chưa và tình trạng chảy máu chân răng có cải thiện không.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "zlkxci0mra4hksa",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-07",
+    "targetDate": "2026-07-10",
+    "reason": "Hỏi thăm xem Ngọc Bích đã hoàn thiện bài viết chưa và có cần hỗ trợ thêm về hình ảnh hay bố cục không.",
+    "status": "sent",
+    "sentDate": "2026-07-10"
+  },
+  {
+    "id": "e58zop9mrbehuvd",
+    "userId": "6961154405071114042",
+    "userName": "Unknown",
+    "createdDate": "2026-07-08",
+    "targetDate": "2026-07-15",
+    "reason": "Hỏi thăm tình trạng sức khỏe, mức độ giảm căng thẳng và việc duy trì thói quen day huyệt/dinh dưỡng sau 1 tuần.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "86u0cy6mrcnwyyh",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-07-08",
+    "targetDate": "2026-07-15",
+    "reason": "Hỏi thăm xem khách hàng đã sẵn sàng học cách thiết kế hình ảnh chuyên nghiệp chưa và hỗ trợ soạn bài viết về sự tử tế trong kinh doanh.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "flci9t5mrctxmmu",
+    "userId": "1000371540457544258",
+    "userName": "Unknown",
+    "createdDate": "2026-07-09",
+    "targetDate": "2026-07-16",
+    "reason": "Kiểm tra tiến triển tình trạng lạnh chân sau khi điều chỉnh lộ trình Diện Chẩn và dinh dưỡng",
+    "status": "sent",
+    "sentDate": "2026-07-16"
+  },
+  {
+    "id": "huzenaemrcyg2kl",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-09",
+    "targetDate": "2026-07-12",
+    "reason": "Hỏi thăm xem Bích đã chỉnh sửa xong poster chưa và có cần hỗ trợ viết caption đăng bài không",
+    "status": "sent",
+    "sentDate": "2026-07-12"
+  },
+  {
+    "id": "56mrbc0mrd5brv3",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-07-09",
+    "targetDate": "2026-07-16",
+    "reason": "Hỏi thăm phản hồi của khách hàng về hiệu quả và lượng khách đăng ký trong tuần đầu triển khai khung giờ mới",
+    "status": "sent",
+    "sentDate": "2026-07-16"
+  },
+  {
+    "id": "qcbd2vxmrd5fufm",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-07-09",
+    "targetDate": "2026-07-16",
+    "reason": "Hỏi thăm cảm nhận của các thành viên về hiệu quả của buổi hướng dẫn 'Trưa Tỉnh Thức' sau 1 tuần thực hiện.",
+    "status": "sent",
+    "sentDate": "2026-07-16"
+  },
+  {
+    "id": "5dhnr62mrd7cubg",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-07-09",
+    "targetDate": "2026-07-16",
+    "reason": "Hỏi thăm cảm nhận của thành viên mới về phương pháp Tam Thông Dưỡng Nhan sau 1 tuần tham gia nhóm",
+    "status": "sent",
+    "sentDate": "2026-07-16"
+  },
+  {
+    "id": "9k6vuu3mrd82ewl",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-09",
+    "targetDate": "2026-07-12",
+    "reason": "Hỏi thăm xem Bích đã áp dụng bản chỉnh sửa nội dung Poochin chưa và có cần hỗ trợ thêm kịch bản chốt đơn gói Combo không.",
+    "status": "sent",
+    "sentDate": "2026-07-12"
+  },
+  {
+    "id": "p4sks0smreekh99",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-13",
+    "reason": "Hỏi thăm khách hàng về việc thực hiện kỹ thuật vỗ mặt và thả lỏng cơ mặt sau 3 ngày, đồng thời kiểm tra xem khách đã gửi ảnh da chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-13"
+  },
+  {
+    "id": "9l1j708mrefeft8",
+    "userId": "test_user_spa_price_query_1783657123082",
+    "userName": "Unknown",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-13",
+    "reason": "Hỏi thăm khách hàng xem đã xem qua bảng giá và có gửi ảnh để tư vấn chưa sau 3 ngày không thấy phản hồi.",
+    "status": "sent",
+    "sentDate": "2026-07-13"
+  },
+  {
+    "id": "fzgqikemrefehm7",
+    "userId": "test_user_spa_price_query_1783657123082",
+    "userName": "Unknown",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-13",
+    "reason": "Hỏi thăm khách hàng đã chọn được gói gội đầu phù hợp chưa hoặc có cần hỗ trợ đặt lịch trải nghiệm không.",
+    "status": "sent",
+    "sentDate": "2026-07-13"
+  },
+  {
+    "id": "2d8i356mrefej47",
+    "userId": "test_user_spa_price_query_1783657123082",
+    "userName": "Unknown",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-13",
+    "reason": "Hỏi thăm khách hàng về việc sắp xếp thời gian trải nghiệm liệu trình sau khi đã tư vấn ưu đãi",
+    "status": "sent",
+    "sentDate": "2026-07-13"
+  },
+  {
+    "id": "nl1wlf6mrelx87d",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Hỏi thăm tiến độ triển khai dự án 'Ngọc Bích - Họa Sắc Dung Nhan' và hỗ trợ thêm về chiến lược tư vấn nếu cần.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "9hm3br3mrenddak",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-13",
+    "reason": "Hỏi thăm khách hàng về việc áp dụng các kỹ thuật Tam Thông và kiểm tra phản hồi về các câu hỏi đã đặt ra để tư vấn lộ trình tiếp theo.",
+    "status": "sent",
+    "sentDate": "2026-07-13"
+  },
+  {
+    "id": "45qcxwbmrenjoxm",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Hỏi thăm tình trạng da sau khi áp dụng kỹ thuật vỗ và day huyệt, đồng thời tư vấn sâu hơn dựa trên thông tin sức khỏe nội tiết khách hàng cung cấp.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "cj21s12mrenrs7j",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Kiểm tra hiệu quả của phác đồ Tam Thông sau 7 ngày áp dụng để theo dõi tình trạng tiêu hóa và sự thay đổi của làn da.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "tzctncwmrenykn9",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Theo dõi hiệu quả lộ trình Tam Thông Dưỡng Nhan và tình trạng đi ngoài sau 7 ngày áp dụng",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "8o3fj0vmreo5wut",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Kiểm tra hiệu quả của lộ trình tiêu hóa và kỹ thuật vỗ mặt sau 7 ngày thực hiện",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "pt0xfmcmreo8v8s",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Hỏi thăm tình trạng tiêu hóa của chị Trang sau khi áp dụng kết hợp Protein và Canxi-Magie",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "hcunjpbmreobcfw",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Hỏi thăm tình trạng sử dụng sản phẩm Nutrilite Calcium Magnesium và hiệu quả hỗ trợ đại tràng sau 1 tuần",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "eg82qe6mreocn4t",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Theo dõi phản ứng cơ thể và sự thay đổi của da sau 7 ngày áp dụng lộ trình dinh dưỡng và thói quen mới",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "f158cqymreonx1v",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Kiểm tra hiệu quả của bột chuối xanh đối với tình trạng táo bón và cảm nhận của khách hàng sau 1 tuần sử dụng",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "gdn6l74mreos2ja",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-17",
+    "reason": "Hỏi thăm tình trạng bụng dạ và sự thay đổi của làn da sau khi áp dụng lộ trình chăm sóc",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "dg55ae3mrf30659",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-10",
+    "targetDate": "2026-07-13",
+    "reason": "Hỏi thăm xem Bích đã thiết kế xong layout cho WASHA chưa và hỗ trợ soạn caption Facebook nếu cần",
+    "status": "sent",
+    "sentDate": "2026-07-13"
+  },
+  {
+    "id": "1o3jjqdmrfoii7m",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Kiểm tra xem tình trạng nặng đầu của khách hàng đã cải thiện sau khi áp dụng các thủ pháp Diện Chẩn và điều chỉnh dinh dưỡng hay chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "zuf0wh6mrfote25",
+    "userId": "test_user_spa_price_query_1783159673539",
+    "userName": "Unknown",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng đau mỏi vai gáy và trải nghiệm dịch vụ sau 7 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "5gctqo7mrfptsg2",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Kiểm tra xem tình trạng nặng đầu của khách hàng đã cải thiện chưa",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "wd5w7vsmrfpv57h",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Hỏi thăm tình trạng sức khỏe và việc thực hiện các thủ pháp massage mặt sau 3 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "rilc2rqmrfpvkxd",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Hỏi thăm tình trạng sức khỏe, mức độ giảm tải công việc và sự hài lòng với phong cách giao tiếp mới của AI",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "h595c2umrfpwe9d",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình hình sức khỏe sau thời gian nghỉ ngơi và cập nhật tiến độ công việc kinh doanh",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "gjsmyzvmrfpx6qc",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình hình sức khỏe và công việc, duy trì mối quan hệ tốt đẹp với khách hàng",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "z3jg8dvmrfq05ko",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng sức khỏe và tinh thần sau 1 tuần để duy trì kết nối và chăm sóc khách hàng.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "lfsmd6kmrfq1jnl",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng sức khỏe, mức độ ổn định của tâm trí và diện mạo sau 7 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "ezdhzdxmrfq25l0",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Hỏi thăm trải nghiệm của khách hàng sau khi đã điều chỉnh cách phục vụ để đảm bảo khách hài lòng",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "u77tldzmrfq3014",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình hình công việc và sức khỏe của khách hàng sau 1 tuần để thể hiện sự quan tâm tinh tế",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "zvkufo6mrfq4rw7",
+    "userId": "1540827798594831042",
+    "userName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng căng thẳng và kết quả sau khi thực hiện kỹ thuật vỗ mặt đánh thức mao mạch",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "1mefvt1mrfqp2k7",
+    "userId": "test-group-12345",
+    "userName": "Unknown",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Nhắc nhở khách hàng gửi ảnh hoặc chốt lịch trải nghiệm nếu khách chưa phản hồi sau 3 ngày.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "sfhr7tsmrfqpgdt",
+    "userId": "test-group-12345",
+    "userName": "Unknown",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Nhắn tin hỏi thăm xem khách đã chụp ảnh gương mặt chưa và hỗ trợ đặt lịch trải nghiệm ưu đãi 299.000 VNĐ.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "paxatp5mrfqpugc",
+    "userId": "test-group-12345",
+    "userName": "Unknown",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Nhắn tin hỏi thăm xem khách đã chụp ảnh gương mặt chưa và hỗ trợ đặt lịch trải nghiệm ưu đãi 299k.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "0bnh90vmrfwsqex",
+    "userId": "2658146630246199875",
+    "userName": "Ngát Phạm",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Hỏi thăm tiến độ thiết kế bài đăng và hỗ trợ soạn nội dung nếu khách hàng chưa triển khai",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "peeese9mrfwyjyu",
+    "userId": "2658146630246199875",
+    "userName": "Ngát Phạm",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-14",
+    "reason": "Hỏi thăm khách hàng sau 3 ngày nếu chưa thấy phản hồi để duy trì kết nối và chia sẻ thêm về chuyên môn.",
+    "status": "sent",
+    "sentDate": "2026-07-15"
+  },
+  {
+    "id": "27o2y5umrfx5fb7",
+    "userId": "2658146630246199875",
+    "userName": "Ngát Phạm",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm xem khách hàng đã chọn được loại thảo dược nào tâm đắc và cần hỗ trợ phân tích chuyên sâu hay chưa.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "93rrtkhmrfxcu9b",
+    "userId": "2658146630246199875",
+    "userName": "Ngát Phạm",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tiến độ soạn thảo danh sách thảo dược và hỗ trợ khách hàng nếu gặp khó khăn trong việc hệ thống hóa kiến thức",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "0buddesmrfxevtk",
+    "userId": "2658146630246199875",
+    "userName": "Ngát Phạm",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-08-10",
+    "reason": "Hỏi thăm tình hình triển khai dự án thảo dược địa phương và hỗ trợ thêm về dưỡng sinh",
+    "status": "pending"
+  },
+  {
+    "id": "jvr4yukmrfzj37x",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tiến độ hoàn thiện nội dung và thiết kế của dự án WASHA, đồng thời hỗ trợ thêm nếu khách hàng cần tư vấn hình ảnh.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "flae4semrfzmgfe",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm Bích về phản hồi của khách hàng đối với nội dung bài đăng mới và xem có cần hỗ trợ điều chỉnh thêm không.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "gte0sldmrg0zhkn",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình hình triển khai hệ thống kinh doanh và hỗ trợ soạn bài đăng cho đội nhóm",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "ulbnhgfmrg7ru2l",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-11",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng phục hồi trong tuần lễ vàng và kiểm tra việc thực hiện phác đồ dinh dưỡng, Diện Chẩn",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "k3i1oj9mrh498hc",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-12",
+    "targetDate": "2026-07-19",
+    "reason": "Hỏi thăm kết quả áp dụng nội dung Poochin và tiến độ chốt đơn gói Combo 10+2",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "ct9ynzrmrh5d9oh",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-12",
+    "targetDate": "2026-07-19",
+    "reason": "Hỏi thăm tình trạng sức khỏe và việc duy trì kỷ luật ăn uống sau dịp sinh nhật",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "wd6051fmrijp5yq",
+    "userId": "6304417195035041757",
+    "userName": "Ngoc Bich",
+    "createdDate": "2026-07-13",
+    "targetDate": "2026-07-20",
+    "reason": "Hỏi thăm tiến độ hoàn thiện layout WASHA và hỗ trợ soạn caption Facebook nếu khách hàng chưa hoàn thành",
+    "status": "sent",
+    "sentDate": "2026-07-20"
+  },
+  {
+    "id": "3z5s7nsmrirxzzx",
+    "userId": "test_user_spa_price_query_1783007937889",
+    "userName": "Unknown",
+    "createdDate": "2026-07-13",
+    "targetDate": "2026-07-16",
+    "reason": "Hỏi thăm khách hàng về quyết định làm dịch vụ chân mày sau khi đã gửi bảng giá",
+    "status": "sent",
+    "sentDate": "2026-07-16"
+  },
+  {
+    "id": "euv91mlmrizyo8b",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-07-13",
+    "targetDate": "2026-07-20",
+    "reason": "Hỏi thăm cảm nhận của thành viên sau 1 tuần gia nhập nhóm và tìm hiểu về phương pháp Tam Thông Dưỡng Nhan",
+    "status": "sent",
+    "sentDate": "2026-07-20"
+  },
+  {
+    "id": "a8ey7xhmrlgvv20",
+    "userId": "new_user_1784082883290",
+    "userName": "Tuyết Dương",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Theo dõi phản ứng da và hiệu quả của phác đồ 'Đuổi hàn' cũng như việc bổ sung dinh dưỡng",
+    "status": "pending"
+  },
+  {
+    "id": "q0m7s1smrlgz4ja",
+    "userId": "new_user_1784082883290",
+    "userName": "Tuyết Dương",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Hỏi thăm tình trạng thực hiện lộ trình đuổi hàn và phản ứng cơ thể của chị Tuyết Dương sau 7 ngày",
+    "status": "pending"
+  },
+  {
+    "id": "5zbo73imrlh29p4",
+    "userId": "new_user_1784082883290",
+    "userName": "Tuyết Dương",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng cổ vai gáy và da mặt sau 3 ngày thực hiện liệu pháp ngâm chân gừng và sấy ấm vùng gáy.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "napy5himrlpoang",
+    "userId": "1957808302547895691",
+    "userName": "Thy Thy Tran",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Kiểm tra tiến độ phục hồi vết thương và nhắc nhở chế độ ăn uống",
+    "status": "pending"
+  },
+  {
+    "id": "13u9a78mrlprnic",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm khách hàng về tình trạng sử dụng sản phẩm hiện tại và các triệu chứng cổ vai gáy/giấc ngủ để hoàn thiện phác đồ điều trị.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "9cr0bowmrlprnip",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Kiểm tra phản ứng của da sau khi áp dụng các bước chăm sóc tại nhà và hỏi thăm tình trạng giấc ngủ/căng thẳng của khách hàng.",
+    "status": "pending"
+  },
+  {
+    "id": "0zllc3bmrlprnki",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Hỏi thăm khách hàng về việc áp dụng các bài tập thả lỏng cơ mặt tại nhà và xác nhận mong muốn cải thiện vấn đề da cụ thể",
+    "status": "pending"
+  },
+  {
+    "id": "ehr42x1mrlpw05e",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm khách hàng về cảm nhận làn da và tư vấn tiếp lộ trình dưỡng nhan nếu khách chưa phản hồi.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "ul4ys21mrlq2q2h",
+    "userId": "1957808302547895691",
+    "userName": "Thy Thy Tran",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Hỏi thăm tình trạng hồi phục vết thương và kiểm tra xem có dấu hiệu kích ứng hay sẹo lồi sau 1 tuần",
+    "status": "pending"
+  },
+  {
+    "id": "7w5cr3hmrm8uv8v",
+    "userId": "new_user_1784082883290",
+    "userName": "Tuyết Dương",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Hỏi thăm tình trạng da và phản ứng của cơ thể sau 7 ngày bổ sung Protein và thực hiện các bước giữ ấm",
+    "status": "pending"
+  },
+  {
+    "id": "tfmajh1mrm8zoub",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm chị Tuyết về việc bắt đầu áp dụng phác đồ dinh dưỡng và mỹ phẩm, kiểm tra phản ứng da và việc thực hiện các nguyên tắc làm ấm.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "kss04idmrm92mrm",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Theo dõi tình trạng da và phản ứng của cơ thể sau 7 ngày áp dụng phác đồ dinh dưỡng ấm và chăm sóc da.",
+    "status": "pending"
+  },
+  {
+    "id": "swq6hi8mrm92n51",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-18",
+    "reason": "Theo dõi phản ứng của cơ thể với phác đồ dinh dưỡng và tình trạng dạ dày của chị Tuyết sau 3 ngày.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "ou5z5zomrm92nkn",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Hỏi thăm tình trạng da, mức độ cải thiện vùng cổ vai gáy và phản ứng của cơ thể sau 1 tuần thực hiện phác đồ giải hàn",
+    "status": "pending"
+  },
+  {
+    "id": "9fvz2k6mrm92phf",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Theo dõi phản ứng của da và tình trạng sức khỏe sau khi áp dụng phác đồ dinh dưỡng và chăm sóc da mới.",
+    "status": "pending"
+  },
+  {
+    "id": "gtpckdpmrm9895v",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-18",
+    "reason": "Hỏi thăm tình trạng sức khỏe, phản ứng của da và việc thực hiện uống Protein ấm/ngâm chân của chị Tuyết sau 3 ngày.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "ukav1i6mrm98d0a",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-18",
+    "reason": "Kiểm tra hiệu quả của việc uống Protein ấm trong 3 ngày đối với độ sáng của da chị Tuyết",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "y192gtsmrm9dlom",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Hỏi thăm tình trạng da và phản ứng của chị Tuyết sau khi bắt đầu sử dụng bộ sản phẩm Artistry Skin Nutrition",
+    "status": "pending"
+  },
+  {
+    "id": "1s9iqc0mrm9gw8x",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-15",
+    "targetDate": "2026-07-22",
+    "reason": "Kiểm tra hiệu quả giữ sáng của da sau 7 ngày áp dụng quy trình khóa nhiệt và dùng sản phẩm đúng cách.",
+    "status": "pending"
+  },
+  {
+    "id": "k8y31jdmrms8ayy",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Kiểm tra xem da chị Tuyết có giữ được độ sáng và tình trạng hàn khí đã tan hay chưa sau 3 ngày thực hiện liệu trình",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "ppobo0ymrmsd88k",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-17",
+    "reason": "Hỏi thăm kết quả thực tế sau khi chị Dương thực hiện quy trình làm ấm và kiểm tra độ mềm cơ mặt của chị Tuyết.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "o1rnwt7mrmsll8u",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm tình trạng da và hiệu quả phục hồi sau 7 ngày thực hiện chế độ ăn uống ôn trung tán hàn",
+    "status": "pending"
+  },
+  {
+    "id": "grahncomrmu0osw",
+    "userId": "test_user_spa_price_query_1783007937889",
+    "userName": "Unknown",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Hỏi thăm lại nếu khách hàng chưa phản hồi sau 3 ngày về quyết định làm dịch vụ chân mày",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "bxlw5rnmrn5ts8e",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-17",
+    "reason": "Hỏi thăm trải nghiệm xem khai mạc Festival của gia đình chị Dương và sức khỏe sau buổi tối ngoài trời",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "rem_1784186376501",
+    "userId": "unknown_user",
+    "userName": "anh Thiện",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Ngừng nhắc nhở do chia tay",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "rem_1784186418169",
+    "userId": "unknown_user",
+    "userName": "anh Thiện",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Ngừng nhắc tên khách hàng",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "ns2tiysmrnai2sb",
+    "userId": "4158999347555777303",
+    "userName": "Châu Thị Thuỳ Dương",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Kiểm tra tình trạng hồi phục vết thương ở chân của chị Thùy Dương.",
+    "status": "pending"
+  },
+  {
+    "id": "lwzhnq3mrnanb23",
+    "userId": "4158999347555777303",
+    "userName": "Châu Thị Thuỳ Dương",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Theo dõi mức độ hồi phục vết thương hở ở chân và sự kiêng khem ăn uống của chị Thùy Dương.",
+    "status": "pending"
+  },
+  {
+    "id": "rxs8nemmrndny4n",
+    "userId": "8186676035909638204",
+    "userName": "Trúc Linh",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Theo dõi tình trạng sưng nề vùng mắt và mức độ cải thiện sau khi áp dụng các bài tập Diện Chẩn tại nhà",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "rmt3w80mrndnykz",
+    "userId": "8186676035909638204",
+    "userName": "Trúc Linh",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Kiểm tra tình trạng sưng nề vùng mắt sau 3 ngày thực hiện hướng dẫn chăm sóc tại nhà.",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "cf70c8vmrndnz1c",
+    "userId": "8186676035909638204",
+    "userName": "Trúc Linh",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm tình trạng cải thiện vùng mắt và cảm nhận của khách sau 1 tuần áp dụng các bài tập day huyệt và massage tại nhà.",
+    "status": "pending"
+  },
+  {
+    "id": "yc1g4z3mrndnz6j",
+    "userId": "8186676035909638204",
+    "userName": "Trúc Linh",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Hỏi thăm khách hàng về việc áp dụng kỹ thuật vỗ mặt và thả lỏng cơ hàm tại nhà sau 3 ngày",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "3sev3ilmrnii6wj",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Hỏi thăm khách hàng đã thử áp dụng phương pháp sấy ấm cổ vai gáy chưa và cảm nhận hiệu quả thư giãn như thế nào",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "i0igqlbmrnii9td",
+    "userId": "6629232838644502879",
+    "userName": "Lê Thị Hồng Tuyết",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm khách hàng về trải nghiệm sử dụng máy đun nước ngâm chân và tư vấn thêm về liệu pháp Tam Thông nếu khách cần.",
+    "status": "pending"
+  },
+  {
+    "id": "is53kc9mrno0h9s",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm kết quả thực hành kỹ thuật Tam Thông và tình trạng sức khỏe sau 1 tuần",
+    "status": "pending"
+  },
+  {
+    "id": "la64mrjmrno3d68",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-08-15",
+    "reason": "Hỏi thăm tình trạng sử dụng sản phẩm và nhu cầu bổ sung thêm thực phẩm chức năng sau 1 tháng",
+    "status": "pending"
+  },
+  {
+    "id": "gm5dls3mrno7dsx",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm cảm nhận của chị Trang về hiệu quả của Toner và các sản phẩm bổ sung sau 1 tuần sử dụng",
+    "status": "pending"
+  },
+  {
+    "id": "etdhdy8mrnouqrp",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm tình trạng da, việc duy trì uống thực phẩm bổ sung và thực hiện các kỹ thuật Diện Chẩn/vỗ mặt của chị Trang sau 1 tuần áp dụng.",
+    "status": "pending"
+  },
+  {
+    "id": "fc8zovtmrnovqhv",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Theo dõi phản ứng da và hiệu quả của sản phẩm Artistry Toner sau 1 tuần sử dụng",
+    "status": "pending"
+  },
+  {
+    "id": "9ad1uykmrnowchx",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Theo dõi phản ứng của da sau 7 ngày sử dụng Toner mới để đảm bảo da không bị kích ứng và đang phục hồi tốt",
+    "status": "pending"
+  },
+  {
+    "id": "28su92mmrnp5w8d",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Theo dõi phản ứng của da sau 7 ngày áp dụng quy trình sử dụng Toner kết hợp sáng-tối",
+    "status": "pending"
+  },
+  {
+    "id": "t6z29c5mrnp6fl2",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm tình trạng da và cảm nhận của chị Trang sau 7 ngày duy trì uống Protein kết hợp bột chuối xanh và thực hiện kỹ thuật Tam Thông.",
+    "status": "pending"
+  },
+  {
+    "id": "tam6ntkmrnp80wb",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-19",
+    "reason": "Theo dõi phản ứng da của chị Trang sau 3 ngày sử dụng sản phẩm mới để đảm bảo da không bị kích ứng",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "wyo164wmrnpdqgb",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Theo dõi phản ứng của da với sữa rửa mặt và bộ sản phẩm mới, kiểm tra xem da có bị khô hay kích ứng không",
+    "status": "pending"
+  },
+  {
+    "id": "vagt90omrnpet8f",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm tình trạng da sau 7 ngày sử dụng sữa rửa mặt Artistry để theo dõi hiệu quả phục hồi",
+    "status": "pending"
+  },
+  {
+    "id": "l1w7356mrnpgfdp",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm chị Trang về việc nhận hàng và hướng dẫn cách sử dụng sản phẩm sữa rửa mặt cũng như bổ sung dinh dưỡng hiệu quả.",
+    "status": "pending"
+  },
+  {
+    "id": "lcu8ke0mrnpjer2",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm tình trạng da sau khi áp dụng thói quen thả lỏng cơ mặt và kiểm tra nhu cầu đặt hàng sản phẩm",
+    "status": "pending"
+  },
+  {
+    "id": "wut1ix7mro60tp9",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-16",
+    "targetDate": "2026-07-23",
+    "reason": "Hỏi thăm chị Trang về trải nghiệm sử dụng sữa rửa mặt và hiệu quả của Omega-3 sau 1 tuần sử dụng.",
+    "status": "pending"
+  },
+  {
+    "id": "36emfjdmroa6uit",
+    "userId": "test_user_tam_thong_query_1784253030133",
+    "userName": "Unknown",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-24",
+    "reason": "Hỏi thăm tình trạng cơ mặt và cảm nhận của khách hàng sau 7 ngày thực hiện kỹ thuật massage giải tỏa cơ cắn.",
+    "status": "pending"
+  },
+  {
+    "id": "y8fd8p3mroa6xvi",
+    "userId": "test_user_tam_thong_query_1784253030133",
+    "userName": "Unknown",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-20",
+    "reason": "Hỏi thăm khách hàng về tình trạng cơ mặt sau khi đã tiếp nhận kiến thức về kỹ thuật massage đúng cách.",
+    "status": "sent",
+    "sentDate": "2026-07-20"
+  },
+  {
+    "id": "z6akgmfmrob76bt",
+    "userId": "test_user_tam_thong_query_1784254725116",
+    "userName": "Unknown",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-24",
+    "reason": "Hỏi thăm tình trạng cơ mặt và sự thay đổi độ cân đối sau 7 ngày khách thực hiện kỹ thuật giải tắc cơ cắn.",
+    "status": "pending"
+  },
+  {
+    "id": "yr9daz0mrob7a23",
+    "userId": "test_user_tam_thong_query_1784254725116",
+    "userName": "Unknown",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-24",
+    "reason": "Hỏi thăm khách hàng về việc áp dụng quy tắc massage mới và cảm nhận sự thay đổi của cơ mặt sau 1 tuần",
+    "status": "pending"
+  },
+  {
+    "id": "d895rl6mrobea1t",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-24",
+    "reason": "Hỏi thăm tình trạng phục hồi cơ mặt và nhắc lịch đả thông kinh lạc chuyên sâu.",
+    "status": "pending"
+  },
+  {
+    "id": "e8khtmzmrobudrr",
+    "userId": "8186676035909638204",
+    "userName": "Trúc Linh",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-24",
+    "reason": "Nhắc nhở khách hàng về ưu đãi sinh nhật nếu khách chưa đặt lịch sau 7 ngày",
+    "status": "pending"
+  },
+  {
+    "id": "rem_tuyet_test_123",
+    "userId": "test_user_tuyet_12345",
+    "userName": "Chị Tuyết",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-17",
+    "reason": "Đắp mặt nạ thảo dược phục hồi má trái và kiểm tra rãnh cười xem có bớt căng tức không.",
+    "status": "sent",
+    "sentDate": "2026-07-18"
+  },
+  {
+    "id": "rem_1784255831905",
+    "userId": "unknown_user",
+    "userName": "chị Lan",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-20",
+    "reason": "chăm sóc",
+    "status": "sent",
+    "sentDate": "2026-07-20"
+  },
+  {
+    "id": "vx20m9nmroburhf",
+    "userId": "test_user_tuyet_12345",
+    "userName": "Chị Tuyết",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-20",
+    "reason": "Hỏi thăm tình trạng cơ thể và phản ứng của da sau liệu trình đuổi hàn",
+    "status": "sent",
+    "sentDate": "2026-07-20"
+  },
+  {
+    "id": "q5cijxsmrocf31x",
+    "userId": "8186676035909638204",
+    "userName": "Trúc Linh",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-08-16",
+    "reason": "Hỏi thăm tình trạng da và mời khách hàng ghé Spa trải nghiệm dịch vụ đả thông kinh lạc/massage mặt",
+    "status": "pending"
+  },
+  {
+    "id": "1bshtllmrocfgxq",
+    "userId": "8186676035909638204",
+    "userName": "Trúc Linh",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-24",
+    "reason": "Hỏi thăm tình hình áp dụng bài tập Tam Thông và nhu cầu tư vấn dinh dưỡng từ xa",
+    "status": "pending"
+  },
+  {
+    "id": "bo4nawpmroeayvv",
+    "userId": "5717403040894132984",
+    "userName": "Trang",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-24",
+    "reason": "Hỏi thăm khách hàng về việc sử dụng sản phẩm hoặc lộ trình chăm sóc sau khi đã tính toán chi phí.",
+    "status": "pending"
+  },
+  {
+    "id": "bl1epimmrpgvg0w",
+    "userId": "5428890398497221111",
+    "userName": "Nguyên",
+    "createdDate": "2026-07-17",
+    "targetDate": "2026-07-20",
+    "reason": "Hỏi thăm nếu khách hàng chưa phản hồi sau 3 ngày để duy trì kết nối và hỗ trợ kịp thời.",
+    "status": "sent",
+    "sentDate": "2026-07-20"
+  },
+  {
+    "id": "218rt3lmrq6k5y5",
+    "userId": "4603724706821695811",
+    "userName": "KHOẺ và ĐẸP TỉnhThức",
+    "createdDate": "2026-07-18",
+    "targetDate": "2026-07-25",
+    "reason": "Hỏi thăm cảm nhận của thành viên về phương pháp Tam Thông Dưỡng Nhan sau 7 ngày gia nhập nhóm",
+    "status": "pending"
+  },
+  {
+    "id": "pjdjrb6mrq8axfv",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-18",
+    "targetDate": "2026-07-19",
+    "reason": "Hỏi thăm trải nghiệm của gia đình chị Dương sau đêm Festival Biển Khánh Hòa 2026",
+    "status": "sent",
+    "sentDate": "2026-07-19"
+  },
+  {
+    "id": "jvo5ybjmrqdxcyq",
+    "userId": "test_user_tuyet_12345",
+    "userName": "Chị Tuyết",
+    "createdDate": "2026-07-18",
+    "targetDate": "2026-07-28",
+    "reason": "Hỏi thăm kết quả làn da sau 10 ngày áp dụng phác đồ tại Nha Trang và chuẩn bị cho liệu trình tiếp theo",
+    "status": "pending"
+  },
+  {
+    "id": "es4dsyymrr3srkr",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-07-19",
+    "targetDate": "2026-07-26",
+    "reason": "Hỏi thăm tình trạng sức khỏe và làn da, đồng thời tư vấn thêm về bí quyết dưỡng nhan hoặc dinh dưỡng Nutrilite theo nhu cầu của khách hàng.",
+    "status": "pending"
+  },
+  {
+    "id": "06x3kltmrr422th",
+    "userId": "5046923348046707114",
+    "userName": "Thực Hành Tam Thông Dưỡng Nhan",
+    "createdDate": "2026-07-19",
+    "targetDate": "2026-07-26",
+    "reason": "Hỏi thăm tình hình thực hành Tam Thông Dưỡng Nhan và cảm nhận của chị Tuệ Liên sau 1 tuần.",
+    "status": "pending"
+  },
+  {
+    "id": "sohee42mrr42qed",
+    "userId": "8528100357874555641",
+    "userName": "Ngô Bạch Yến",
+    "createdDate": "2026-07-19",
+    "targetDate": "2026-08-18",
+    "reason": "Hỏi thăm sức khỏe và duy trì kết nối với khách hàng thân thiết",
+    "status": "pending"
+  },
+  {
+    "id": "wljcqwcmrr49g9q",
+    "userId": "2757351269333325796",
+    "userName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "createdDate": "2026-07-19",
+    "targetDate": "2026-07-26",
+    "reason": "Hỏi thăm tình trạng cải thiện của da sau 7 ngày áp dụng lộ trình phục hồi và thực đơn thanh lọc.",
+    "status": "pending"
+  },
+  {
+    "id": "t533o9nmrr4ch68",
+    "userId": "3479914164528664299",
+    "userName": "A Thiện",
+    "createdDate": "2026-07-19",
+    "targetDate": "2026-07-22",
+    "reason": "Hỏi thăm lại tình trạng sức khỏe nếu khách hàng chưa phản hồi hoặc cần hỗ trợ thêm về các liệu pháp thư giãn sau sự kiện.",
+    "status": "pending"
+  },
+  {
+    "id": "7v01a0umrsjs53z",
+    "userId": "5428890398497221111",
+    "userName": "Nguyên",
+    "createdDate": "2026-07-20",
+    "targetDate": "2026-07-27",
+    "reason": "Hỏi thăm tình trạng sức khỏe và kết quả áp dụng phương pháp Tam Thông Dưỡng Nhan sau 7 ngày",
+    "status": "pending"
+  },
+  {
+    "id": "yp521jtmruj2r8b",
+    "userId": "test_user_tuyet_12345",
+    "userName": "Chị Tuyết",
+    "createdDate": "2026-07-21",
+    "targetDate": "2026-07-22",
+    "reason": "Kiểm tra tình trạng tiêu hóa và việc thực hiện chế độ nhịn ăn gián đoạn sau bữa ăn quá no",
+    "status": "pending"
+  }
+]
