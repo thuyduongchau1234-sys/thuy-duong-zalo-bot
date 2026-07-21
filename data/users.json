@@ -1,0 +1,979 @@
+{
+  "8596083334958647787": {
+    "id": "8596083334958647787",
+    "displayName": "Đạo Phật Khoa Học Thiền Tông",
+    "firstContact": "2026-07-11T02:19:42.957Z",
+    "lastContact": "2026-07-21T05:52:55.435Z",
+    "messageCount": 240,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "1540827798594831042": {
+    "id": "1540827798594831042",
+    "displayName": "Đồng Hành Hôm Nay - Vươn Xa Ngày Mai",
+    "firstContact": "2026-07-11T02:29:48.046Z",
+    "lastContact": "2026-07-15T01:30:11.533Z",
+    "messageCount": 42,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "4158999347555777303": {
+    "id": "4158999347555777303",
+    "displayName": "Châu Thị Thuỳ Dương",
+    "firstContact": "2026-07-11T04:00:00.779Z",
+    "lastContact": "2026-07-21T10:45:53.328Z",
+    "messageCount": 165,
+    "leadScore": 141,
+    "leadNotes": [
+      {
+        "date": "2026-07-11T04:08:30.077Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:46:04.918Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:47:42.766Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T10:59:38.248Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T12:39:14.154Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T12:41:06.976Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T12:43:07.392Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-12T06:33:28.217Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-12T12:40:09.786Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-12T12:42:49.071Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-13T05:20:55.914Z",
+        "change": 5,
+        "reason": "Quan tâm: \"sao chị hỏi giá phun mày em không trả lơi\""
+      },
+      {
+        "date": "2026-07-13T05:25:46.659Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-13T05:27:02.852Z",
+        "change": 5,
+        "reason": "Quan tâm: \"nếu khách của chị muốn làm giá 1 triệu thì so\""
+      },
+      {
+        "date": "2026-07-13T05:27:06.991Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-13T05:28:42.202Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-13T07:36:07.639Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-13T07:38:28.108Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T01:04:13.505Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T02:34:35.721Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T02:37:07.976Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T02:39:34.551Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:37:39.088Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:41:24.426Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:43:39.904Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:43:40.042Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:43:40.137Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:43:40.298Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:48:02.164Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:48:08.851Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T15:52:13.778Z",
+        "change": 5,
+        "reason": "Quan tâm: \"sao chị không thấy em tư vấn bộ sản phẩm mới làm s\""
+      },
+      {
+        "date": "2026-07-15T15:54:47.561Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T00:39:59.069Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T00:43:49.078Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T00:50:19.277Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T00:51:29.179Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T00:52:47.441Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T01:04:47.549Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T01:06:43.618Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T01:43:49.918Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T07:00:36.982Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T07:14:25.206Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T07:17:36.051Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T07:19:35.433Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T07:20:17.215Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T07:26:16.802Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T07:27:23.905Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T08:19:36.210Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T13:55:42.052Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Trợ lý yêu quý của chị em hãy cho chị lộ trình để \""
+      },
+      {
+        "date": "2026-07-16T13:56:04.435Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Trợ lý yêu quý của chị em hãy cho chị lộ trình để \""
+      },
+      {
+        "date": "2026-07-16T13:56:18.548Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T13:56:47.327Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T13:57:00.024Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Trợ lý yêu quý của chị em hãy cho chị lộ trình để \""
+      },
+      {
+        "date": "2026-07-16T13:57:26.159Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T13:57:35.609Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Trợ lý yêu quý của chị em hãy cho chị lộ trình để \""
+      },
+      {
+        "date": "2026-07-16T13:57:46.692Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T13:58:06.478Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Trợ lý yêu quý của chị em hãy cho chị lộ trình để \""
+      },
+      {
+        "date": "2026-07-16T14:55:24.007Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T14:55:24.204Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T15:08:26.168Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Trợ lý yêu quý của chị em hãy cho chị lộ trình để \""
+      },
+      {
+        "date": "2026-07-16T15:32:40.472Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T15:40:48.427Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T15:52:51.541Z",
+        "change": 5,
+        "reason": "Quan tâm: \"khách hàng của chị là chị Trang em báo cáo ở trên \""
+      },
+      {
+        "date": "2026-07-16T15:52:51.543Z",
+        "change": 10,
+        "reason": "Phân loại: Khách hàng tiềm năng"
+      },
+      {
+        "date": "2026-07-17T02:24:17.566Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-17T02:29:35.196Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-17T02:30:26.657Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Giờ chị muốn xử lý vấn đề của khách hàng bị lệch c\""
+      },
+      {
+        "date": "2026-07-17T02:32:42.607Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Ok tạm ổn . Chii chuẩn bị chăm sóc da cho chị Tuyế\""
+      },
+      {
+        "date": "2026-07-18T10:33:05.233Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-18T10:33:11.412Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-18T13:05:22.480Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-18T13:07:23.885Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-18T13:09:20.747Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-18T13:10:37.388Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-19T01:05:42.948Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-19T01:22:41.998Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-19T01:24:19.035Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-19T01:24:19.038Z",
+        "change": 5,
+        "reason": "Phân loại: Đối tác"
+      },
+      {
+        "date": "2026-07-20T03:35:58.157Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-21T08:55:17.481Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-21T10:45:53.323Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [
+      "Khách hàng tiềm năng",
+      "Đối tác"
+    ],
+    "greetingStep": 3
+  },
+  "7111836400664503570": {
+    "id": "7111836400664503570",
+    "displayName": "TINH HOA NHÂN HIỆU NHÀ ĐÀO TẠO",
+    "firstContact": "2026-07-11T04:35:18.441Z",
+    "lastContact": "2026-07-11T04:35:18.441Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "2658146630246199875": {
+    "id": "2658146630246199875",
+    "displayName": "Ngát Phạm",
+    "firstContact": "2026-07-11T05:13:30.044Z",
+    "lastContact": "2026-07-15T01:30:12.882Z",
+    "messageCount": 18,
+    "leadScore": 7,
+    "leadNotes": [
+      {
+        "date": "2026-07-11T05:13:30.050Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:15:34.446Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:18:01.398Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:23:20.601Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:29:08.555Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:30:44.927Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-11T05:31:14.424Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "6304417195035041757": {
+    "id": "6304417195035041757",
+    "displayName": "Ngoc Bich",
+    "firstContact": "2026-07-11T06:29:56.876Z",
+    "lastContact": "2026-07-20T01:30:00.685Z",
+    "messageCount": 11,
+    "leadScore": 11,
+    "leadNotes": [
+      {
+        "date": "2026-07-11T06:29:56.878Z",
+        "change": 5,
+        "reason": "Quan tâm: \"✨ WASHA – DUNG MẠO HÀI HÒA, KHAI MỞ PHÚC KHÍ ✨ (Ti\""
+      },
+      {
+        "date": "2026-07-11T06:29:56.958Z",
+        "change": 5,
+        "reason": "Phân loại: Đối tác"
+      },
+      {
+        "date": "2026-07-11T06:32:34.653Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [
+      "Đối tác"
+    ],
+    "greetingStep": 3
+  },
+  "2757351269333325796": {
+    "id": "2757351269333325796",
+    "displayName": "Cộng Đồng Nâng Tầm Sắc Đẹp Phụ Nữ Việt Nam",
+    "firstContact": "2026-07-11T07:09:54.458Z",
+    "lastContact": "2026-07-21T03:16:12.964Z",
+    "messageCount": 47,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "4603724706821695811": {
+    "id": "4603724706821695811",
+    "displayName": "KHOẺ và ĐẸP TỉnhThức",
+    "firstContact": "2026-07-11T09:17:26.371Z",
+    "lastContact": "2026-07-21T03:15:49.011Z",
+    "messageCount": 38,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "3479914164528664299": {
+    "id": "3479914164528664299",
+    "displayName": "A Thiện",
+    "firstContact": "2026-07-11T10:20:43.585Z",
+    "lastContact": "2026-07-19T01:30:17.979Z",
+    "messageCount": 7,
+    "leadScore": 2,
+    "leadNotes": [
+      {
+        "date": "2026-07-11T10:20:43.588Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-12T02:01:10.584Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "1056022212136573959": {
+    "id": "1056022212136573959",
+    "displayName": "An Toàn Cùng Nhau Về Quê",
+    "firstContact": "2026-07-11T23:58:43.277Z",
+    "lastContact": "2026-07-19T01:56:05.028Z",
+    "messageCount": 23,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "1752645408761511922": {
+    "id": "1752645408761511922",
+    "displayName": "Gia Đình Yêu Thương",
+    "firstContact": "2026-07-12T00:16:52.672Z",
+    "lastContact": "2026-07-12T00:16:52.672Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 1
+  },
+  "5046923348046707114": {
+    "id": "5046923348046707114",
+    "displayName": "Thực Hành Tam Thông Dưỡng Nhan",
+    "firstContact": "2026-07-12T01:07:47.230Z",
+    "lastContact": "2026-07-21T03:16:23.267Z",
+    "messageCount": 6,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "test_user_spa_price_query_1783007937889": {
+    "id": "test_user_spa_price_query_1783007937889",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-12T01:30:01.896Z",
+    "lastContact": "2026-07-19T01:30:05.454Z",
+    "messageCount": 3,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "5717403040894132984": {
+    "id": "5717403040894132984",
+    "displayName": "Trang",
+    "firstContact": "2026-07-13T01:30:00.617Z",
+    "lastContact": "2026-07-19T01:30:16.448Z",
+    "messageCount": 33,
+    "leadScore": 44,
+    "leadNotes": [
+      {
+        "date": "2026-07-16T15:29:45.553Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T15:32:00.025Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Bạn tín giúp mình mua hủ protein và hủ omega 3 ba \""
+      },
+      {
+        "date": "2026-07-16T15:32:00.026Z",
+        "change": 10,
+        "reason": "Phân loại: Khách hàng tiềm năng"
+      },
+      {
+        "date": "2026-07-16T15:35:07.032Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Hủ protein hủ omega 3 ba tuýp kem đánh răng màu xa\""
+      },
+      {
+        "date": "2026-07-16T15:53:13.058Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T15:54:00.560Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T15:54:31.475Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T16:01:55.247Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T16:02:21.439Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T16:03:34.356Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T16:08:00.221Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T16:08:52.913Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Chai này giá bao nhiêu bạn\""
+      },
+      {
+        "date": "2026-07-16T16:10:08.251Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Mình muốn mua hai hũ protein và hũ omega 3 ba tuýp\""
+      },
+      {
+        "date": "2026-07-16T16:12:25.361Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T23:53:53.783Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Bạn tính giúp mình 3 tuýp kem đánh răng màu xanh n\""
+      }
+    ],
+    "tags": [
+      "Khách hàng tiềm năng"
+    ],
+    "greetingStep": 3
+  },
+  "test_user_spa_price_query_1783657123082": {
+    "id": "test_user_spa_price_query_1783657123082",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-13T01:30:02.493Z",
+    "lastContact": "2026-07-13T01:30:05.194Z",
+    "messageCount": 3,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "1852957239093795607": {
+    "id": "1852957239093795607",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-15T01:30:02.087Z",
+    "lastContact": "2026-07-15T01:30:02.087Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "6961154405071114042": {
+    "id": "6961154405071114042",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-15T01:30:03.755Z",
+    "lastContact": "2026-07-15T01:30:03.755Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "test-group-12345": {
+    "id": "test-group-12345",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-15T01:30:11.749Z",
+    "lastContact": "2026-07-15T01:30:12.232Z",
+    "messageCount": 3,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "new_user_1784082883290": {
+    "id": "new_user_1784082883290",
+    "displayName": "Tuyết Dương",
+    "firstContact": "2026-07-15T02:34:43.290Z",
+    "lastContact": "2026-07-15T02:34:43.290Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 0
+  },
+  "1957808302547895691": {
+    "id": "1957808302547895691",
+    "displayName": "Thy Thy Tran",
+    "firstContact": "2026-07-15T06:39:39.690Z",
+    "lastContact": "2026-07-15T06:51:55.876Z",
+    "messageCount": 9,
+    "leadScore": 3,
+    "leadNotes": [
+      {
+        "date": "2026-07-15T06:39:39.693Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T06:40:42.476Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T06:51:55.875Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "6629232838644502879": {
+    "id": "6629232838644502879",
+    "displayName": "Lê Thị Hồng Tuyết",
+    "firstContact": "2026-07-15T06:41:11.963Z",
+    "lastContact": "2026-07-19T01:30:14.714Z",
+    "messageCount": 23,
+    "leadScore": 9,
+    "leadNotes": [
+      {
+        "date": "2026-07-15T06:41:11.981Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T06:43:15.675Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T06:43:15.722Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T06:43:15.826Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-15T06:46:42.582Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T09:11:29.900Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T09:15:34.501Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T12:55:22.847Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T12:55:34.614Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "1000371540457544258": {
+    "id": "1000371540457544258",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-16T01:30:00.409Z",
+    "lastContact": "2026-07-16T01:30:00.409Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "6719176540935804831": {
+    "id": "6719176540935804831",
+    "displayName": "Trần Lâm",
+    "firstContact": "2026-07-16T02:04:18.965Z",
+    "lastContact": "2026-07-16T02:04:18.991Z",
+    "messageCount": 4,
+    "leadScore": 1,
+    "leadNotes": [
+      {
+        "date": "2026-07-16T02:04:18.989Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "8186676035909638204": {
+    "id": "8186676035909638204",
+    "displayName": "Trúc Linh",
+    "firstContact": "2026-07-16T10:39:39.876Z",
+    "lastContact": "2026-07-19T01:30:12.900Z",
+    "messageCount": 15,
+    "leadScore": 9,
+    "leadNotes": [
+      {
+        "date": "2026-07-16T10:39:39.885Z",
+        "change": 5,
+        "reason": "Quan tâm: \"Chị cần tư vấn chăm sóc da\""
+      },
+      {
+        "date": "2026-07-16T10:39:59.494Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T10:39:59.602Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T10:39:59.718Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      },
+      {
+        "date": "2026-07-16T10:40:03.557Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "test_user_tuyet_12345": {
+    "id": "test_user_tuyet_12345",
+    "displayName": "Chị Tuyết",
+    "firstContact": "2026-07-17T02:36:38.141Z",
+    "lastContact": "2026-07-20T01:30:07.635Z",
+    "messageCount": 2,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "5428890398497221111": {
+    "id": "5428890398497221111",
+    "displayName": "Nguyên",
+    "firstContact": "2026-07-17T21:45:18.809Z",
+    "lastContact": "2026-07-20T01:30:09.149Z",
+    "messageCount": 6,
+    "leadScore": 1,
+    "leadNotes": [
+      {
+        "date": "2026-07-17T21:45:18.816Z",
+        "change": 1,
+        "reason": "Gửi tin nhắn"
+      }
+    ],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "8528100357874555641": {
+    "id": "8528100357874555641",
+    "displayName": "Ngô Bạch Yến",
+    "firstContact": "2026-07-19T01:14:57.530Z",
+    "lastContact": "2026-07-19T01:14:57.530Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 0
+  },
+  "7484133714999611004": {
+    "id": "7484133714999611004",
+    "displayName": "Tuệ Liên",
+    "firstContact": "2026-07-19T01:22:12.559Z",
+    "lastContact": "2026-07-19T01:22:12.559Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 0
+  },
+  "unknown_user": {
+    "id": "unknown_user",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-19T01:30:06.995Z",
+    "lastContact": "2026-07-20T01:30:06.127Z",
+    "messageCount": 3,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  },
+  "test_user_tam_thong_query_1784253030133": {
+    "id": "test_user_tam_thong_query_1784253030133",
+    "displayName": "Unknown",
+    "firstContact": "2026-07-20T01:30:04.594Z",
+    "lastContact": "2026-07-20T01:30:04.594Z",
+    "messageCount": 1,
+    "leadScore": 0,
+    "leadNotes": [],
+    "tags": [],
+    "greetingStep": 3
+  }
+}
